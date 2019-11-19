@@ -42,6 +42,115 @@
 				<strong><?php echo $err_msg;?></strong> 
 			</div>
 		<?php }?>
+		<?php if (!empty($ifSheet)):?>
+			<div class="row clearfix">
+				<div class="col-md-12 column text-center">
+					<?php echo $date_btn_str;?>
+				</div>
+			</div>
+			<div class="row clearfix">
+			<table class="table table-hover table-condensed table-bordered">
+				<thead>
+					<tr>
+						<th></th><th>接口</th><th>次数</th><th style="max-width: 500px">信息</th>
+					</tr>
+				</thead>
+				<tbody>
+				<?php
+				arsort($ifSheet);$total=0;
+				foreach ($ifSheet as $if => $count):?>
+					<tr>
+						<td><?php echo @++$i;?></td>
+						<td>
+							<?php echo '<a href="/?fn=statistic&module=' . $module . '&interface=' . $if . '">' . $if . '</a>'?>	
+						</td>
+						<td><?php echo $count?></td>
+						<td>
+							<?php echo str_replace("\n",'<br>',@$log_data_sheet[$if])?>
+						</td>
+					</tr>
+					<?php $total+=$count; endforeach;?>
+					<tr>
+						<td>9999</td>
+						<td>合计</td>
+						<td><?php echo $total?></td>
+						<td></td>
+					</tr>
+				</tbody>
+			</table>
+			</div>
+		<?php endif;?>
+		<?php if ($module &&  empty($interface)):?>
+		<div class="row clearfix">
+			<div class="col-md-12 column height-400" id="req-container" >
+			</div>
+			<script>
+			Highcharts.setOptions({
+				global: {
+					useUTC: false
+				}
+			});
+				$('#req-container').highcharts({
+					chart: {
+						type: 'spline'
+					},
+					title: {
+						text: '<?php echo "$date $interface_name";?>  请求量曲线'
+					},
+					subtitle: {
+						text: ''
+					},
+					xAxis: {
+						type: 'datetime',
+						dateTimeLabelFormats: { 
+							hour: '%H:%M'
+						}
+					},
+					yAxis: {
+						title: {
+							text: '请求量(次/5分钟)'
+						},
+						min: 0
+					},
+					tooltip: {
+						formatter: function() {
+							return '<p style="color:'+this.series.color+';font-weight:bold;">'
+							+ this.series.name + 
+							'</p><br /><p style="color:'+this.series.color+';font-weight:bold;">时间：' + Highcharts.dateFormat('%m月%d日 %H:%M', this.x) + 
+							'</p><br /><p style="color:'+this.series.color+';font-weight:bold;">数量：'+ this.y + '</p>';
+						}
+					},
+					credits: {
+						enabled: false,
+					},
+					series: [{
+						name: '成功曲线',
+						data: [
+							<?php echo $success_series_data;?>
+						],
+						lineWidth: 2,
+						marker:{
+							radius: 1
+						},
+						
+						pointInterval: 300*1000
+					},
+					{
+						name: '失败曲线',
+						data: [
+							<?php echo $fail_series_data;?>
+						],
+						lineWidth: 2,
+						marker:{
+							radius: 1
+						},
+						pointInterval: 300*1000,
+						color : '#9C0D0D'
+					}]
+				});
+			</script>
+		</div>
+		<?php endif;?>
 		<?php if($module && $interface){?>
 			<div class="row clearfix">
 				<div class="col-md-12 column text-center">

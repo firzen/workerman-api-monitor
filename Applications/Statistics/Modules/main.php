@@ -86,7 +86,7 @@ function main($module, $interface, $date, $start_time, $offset)
         }
     }
     
-    $table_data = $html_class = '';
+    $table_data = '';
     if($data)
     {
         $first_line = true;
@@ -95,10 +95,10 @@ function main($module, $interface, $date, $start_time, $offset)
             if($first_line)
             {
                 $first_line = false;
-            }
-            if($item['total_count'] == 0)
-            {
-                continue;
+                if($item['total_count'] == 0)
+                {
+                    continue;
+                }
             }
             $html_class = 'class="danger"';
             if($item['total_count'] == 0)
@@ -256,12 +256,12 @@ function formatSt($str, $date, &$code_map)
         $data[$time_line] = array(
                 'time'          => date('Y-m-d H:i:s', $time_line),
                 'total_count'   => $item['suc_count']+$item['fail_count'],
-                'total_avg_time'=> $item['suc_count']+$item['fail_count'] == 0 ? 0 : number_format(($item['suc_cost_time']+$item['fail_cost_time'])/($item['suc_count']+$item['fail_count']), 6),
+                'total_avg_time'=> $item['suc_count']+$item['fail_count'] == 0 ? 0 : round(($item['suc_cost_time']+$item['fail_cost_time'])/($item['suc_count']+$item['fail_count']), 6),
                 'suc_count'     => $item['suc_count'],
-                'suc_avg_time'  => $item['suc_count'] == 0 ? $item['suc_count'] : number_format($item['suc_cost_time']/$item['suc_count'], 6),
+                'suc_avg_time'  => $item['suc_count'] == 0 ? $item['suc_count'] : round($item['suc_cost_time']/$item['suc_count'], 6),
                 'fail_count'    => $item['fail_count'],
-                'fail_avg_time' => $item['fail_count'] == 0 ? 0 : number_format($item['fail_cost_time']/$item['fail_count'], 6),
-                'precent'       => $item['suc_count']+$item['fail_count'] == 0 ? 0 : number_format(($item['suc_count']*100/($item['suc_count']+$item['fail_count'])), 4),
+                'fail_avg_time' => $item['fail_count'] == 0 ? 0 : round($item['fail_cost_time']/$item['fail_count'], 6),
+                'precent'       => $item['suc_count']+$item['fail_count'] == 0 ? 0 : round(($item['suc_count']*100/($item['suc_count']+$item['fail_count'])), 4),
         );
     }
     $time_point =  strtotime($date);
@@ -276,7 +276,7 @@ function formatSt($str, $date, &$code_map)
             'suc_avg_time'  => 0,
             'fail_count'    => 0,
             'fail_avg_time' => 0,
-            'precent'       => 0,
+            'precent'       => 100,
         );
         $time_point +=300;
     }

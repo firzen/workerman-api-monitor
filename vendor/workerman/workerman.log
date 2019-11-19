@@ -1,0 +1,1249 @@
+2018-04-27 08:08:28 pid:67446 Workerman[start.php] status 
+2018-04-27 08:08:28 pid:67446 Workerman[start.php] not run
+2018-04-27 08:08:32 pid:67457 Workerman[start.php] start in DEBUG mode
+2018-04-27 08:12:02 pid:67457 Workerman[start.php] stopping ...
+2018-04-27 08:12:02 pid:67457 Workerman[start.php] has been stopped
+2018-04-27 08:12:03 pid:67719 Workerman[start.php] start in DEBUG mode
+2018-04-27 08:13:16 pid:67719 Workerman[start.php] stopping ...
+2018-04-27 08:13:16 pid:67719 Workerman[start.php] has been stopped
+2018-04-27 08:13:17 pid:67822 Workerman[start.php] start in DEBUG mode
+2018-04-27 08:14:12 pid:67822 Workerman[start.php] stopping ...
+2018-04-27 08:14:12 pid:67822 Workerman[start.php] has been stopped
+2018-04-27 08:14:13 pid:67909 Workerman[start.php] start in DEBUG mode
+2018-04-27 08:20:27 pid:67909 Workerman[start.php] stopping ...
+2018-04-27 08:20:27 pid:67909 Workerman[start.php] has been stopped
+2018-04-27 08:20:28 pid:68346 Workerman[start.php] start in DEBUG mode
+2018-04-27 08:23:25 pid:68346 Workerman[start.php] stopping ...
+2018-04-27 08:23:25 pid:68346 Workerman[start.php] has been stopped
+2018-04-27 08:23:25 pid:68559 Workerman[start.php] start in DEBUG mode
+2018-04-27 08:25:35 pid:68559 Workerman[start.php] stopping ...
+2018-04-27 08:25:35 pid:68559 Workerman[start.php] has been stopped
+2018-04-27 08:25:35 pid:68731 Workerman[start.php] start in DEBUG mode
+2018-04-27 08:27:51 pid:68731 Workerman[start.php] stopping ...
+2018-04-27 08:27:52 pid:68731 Workerman[start.php] has been stopped
+2018-04-27 08:27:52 pid:68902 Workerman[start.php] start in DEBUG mode
+2018-04-27 08:28:29 pid:68902 Workerman[start.php] stopping ...
+2018-04-27 08:28:30 pid:68902 Workerman[start.php] has been stopped
+2018-04-27 08:28:30 pid:68966 Workerman[start.php] start in DEBUG mode
+2018-04-27 08:33:29 pid:68966 Workerman[start.php] stopping ...
+2018-04-27 08:33:29 pid:68966 Workerman[start.php] has been stopped
+2018-04-27 08:33:30 pid:69333 Workerman[start.php] start in DEBUG mode
+2018-04-27 08:34:12 pid:69354 Worker process terminated
+2018-04-27 08:34:50 pid:69401 Worker process terminated
+2018-04-27 08:35:24 pid:69444 Worker process terminated
+2018-04-27 08:36:02 pid:69485 Worker process terminated
+2018-04-27 08:37:07 pid:69531 Worker process terminated
+2018-04-27 08:37:09 pid:69333 Workerman[start.php] stopping ...
+2018-04-27 08:37:09 pid:69333 Workerman[start.php] has been stopped
+2018-04-27 08:37:10 pid:69600 Workerman[start.php] start in DEBUG mode
+2018-04-27 08:41:39 pid:69600 Workerman[start.php] stopping ...
+2018-04-27 08:41:39 pid:69600 Workerman[start.php] has been stopped
+2018-04-28 08:59:38 pid:23092 Workerman[start.php] start in DEBUG mode
+2018-04-28 09:39:52 pid:23092 Workerman[start.php] stopping ...
+2018-04-28 09:39:52 pid:23092 Workerman[start.php] has been stopped
+2018-04-28 09:39:53 pid:25830 Workerman[start.php] start in DEBUG mode
+2018-04-28 09:44:11 pid:25830 Workerman[start.php] stopping ...
+2018-04-28 09:44:11 pid:25830 Workerman[start.php] has been stopped
+2018-04-28 09:44:12 pid:26144 Workerman[start.php] start in DEBUG mode
+2018-04-28 10:14:02 pid:26144 Workerman[start.php] stopping ...
+2018-04-28 10:14:02 pid:26144 Workerman[start.php] has been stopped
+2018-04-28 10:14:04 pid:28191 Workerman[start.php] start in DEBUG mode
+2018-04-28 10:26:43 pid:28191 Workerman[start.php] stopping ...
+2018-04-28 10:26:43 pid:28191 Workerman[start.php] has been stopped
+2018-05-05 03:52:38 pid:67149 Workerman[start.php] start in DEBUG mode
+2018-05-05 03:53:11 pid:67182 Workerman[start.php] start in DEBUG mode
+2018-05-05 03:53:14 pid:67196 Workerman[start.php] start in DEBUG mode
+2018-05-05 03:53:17 pid:67198 Workerman[start.php] start in DEBUG mode
+2018-05-05 03:53:19 pid:67199 Workerman[start.php] start in DEBUG mode
+2018-05-05 03:53:35 pid:67215 Workerman[start.php] start in DEBUG mode
+2018-05-05 03:56:22 pid:67397 Workerman[start.php] start in DEBUG mode
+2018-05-05 03:56:44 pid:67425 Workerman[start.php] start in DEBUG mode
+2018-05-05 03:57:06 pid:67441 Workerman[start.php] start in DEBUG mode
+2018-05-05 03:57:15 pid:67454 Workerman[start.php] start in DEBUG mode
+2018-05-05 03:57:32 pid:67470 Workerman[start.php] start in DEBUG mode
+2018-05-05 03:58:19 pid:67521 Workerman[start.php] start in DEBUG mode
+2018-05-05 03:59:14 pid:67587 Workerman[start.php] start in DEBUG mode
+2018-05-05 04:01:14 pid:67722 Workerman[start.php] start in DEBUG mode
+2018-05-05 04:01:27 pid:67722 Workerman[start.php] stopping ...
+2018-05-05 04:01:27 pid:67722 Workerman[start.php] has been stopped
+2018-05-05 04:15:55 pid:68698 Workerman[start.php] start in DEBUG mode
+2018-05-05 04:16:14 pid:68717 Worker process terminated with ERROR: E_ERROR "Class 'React\HttpClient\Client' not found in /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/Applications/Notificationproxy/start.php on line 27"
+2018-05-05 04:16:14 pid:68698 worker[notification:68717] exit with status 65280
+2018-05-05 04:58:00 pid:68698 Workerman[start.php] stopping ...
+2018-05-05 04:58:00 pid:68698 Workerman[start.php] has been stopped
+2018-05-05 05:00:55 pid:71684 Workerman[start.php] start in DEBUG mode
+2018-05-05 05:01:26 pid:71684 Workerman[start.php] stopping ...
+2018-05-05 05:01:26 pid:71684 Workerman[start.php] has been stopped
+2018-05-05 05:02:10 pid:71783 Workerman[start.php] start in DEBUG mode
+2018-05-05 05:02:42 pid:71783 Workerman[start.php] stopping ...
+2018-05-05 05:02:42 pid:71783 Workerman[start.php] has been stopped
+2018-05-05 05:02:43 pid:71832 Workerman[start.php] start in DEBUG mode
+2018-05-05 05:03:28 pid:71832 Workerman[start.php] stopping ...
+2018-05-05 05:03:28 pid:71832 Workerman[start.php] has been stopped
+2018-05-05 05:03:29 pid:71904 Workerman[start.php] start in DEBUG mode
+2018-05-05 05:05:25 pid:71904 Workerman[start.php] stopping ...
+2018-05-05 05:05:25 pid:71904 Workerman[start.php] has been stopped
+2018-05-05 05:05:26 pid:72049 Workerman[start.php] start in DEBUG mode
+2018-05-05 05:06:16 pid:72049 Workerman[start.php] stopping ...
+2018-05-05 05:06:16 pid:72049 Workerman[start.php] has been stopped
+2018-05-05 05:06:17 pid:72129 Workerman[start.php] start in DEBUG mode
+2018-05-05 08:42:20 pid:72129 Workerman[start.php] stopping ...
+2018-05-05 08:42:20 pid:72129 Workerman[start.php] has been stopped
+2018-05-05 08:43:45 pid:73464 Workerman[start.php] start in DEBUG mode
+2018-05-05 08:43:53 pid:73483 Worker process terminated with ERROR: E_ERROR "Class 'React\HttpClient\Client' not found in /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/Applications/Notificationproxy/start.php on line 26"
+2018-05-05 08:43:53 pid:73464 worker[notification:73483] exit with status 65280
+2018-05-05 08:45:06 pid:73464 Workerman[start.php] stopping ...
+2018-05-05 08:45:06 pid:73464 Workerman[start.php] has been stopped
+2018-05-05 08:45:06 pid:73565 Workerman[start.php] start in DEBUG mode
+2018-05-05 08:45:11 pid:73584 Worker process terminated with ERROR: E_RECOVERABLE_ERROR "Argument 1 passed to React\HttpClient\Client::__construct() must be an instance of React\EventLoop\LoopInterface, instance of Workerman\Events\Select given, called in /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/Applications/Notificationproxy/start.php on line 26 and defined in /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/Applications/Notificationproxy/http-client-master/Client.php on line 13"
+2018-05-05 08:45:11 pid:73565 worker[notification:73584] exit with status 65280
+2018-05-05 08:54:09 pid:73565 Workerman[start.php] stopping ...
+2018-05-05 08:54:09 pid:73565 Workerman[start.php] has been stopped
+2018-05-05 08:54:09 pid:74185 Workerman[start.php] start in DEBUG mode
+2018-05-05 08:54:13 pid:74204 Worker process terminated with ERROR: E_RECOVERABLE_ERROR "Argument 1 passed to React\HttpClient\Client::__construct() must be an instance of React\EventLoop\LoopInterface, instance of Workerman\Events\Select given, called in /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/Applications/Notificationproxy/start.php on line 26 and defined in /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/Applications/Notificationproxy/http-client-master/Client.php on line 13"
+2018-05-05 08:54:13 pid:74185 worker[notification:74204] exit with status 65280
+2018-05-05 08:54:34 pid:74185 Workerman[start.php] stopping ...
+2018-05-05 08:54:34 pid:74185 Workerman[start.php] has been stopped
+2018-05-05 08:54:35 pid:74235 Workerman[start.php] start in DEBUG mode
+2018-05-05 08:54:36 pid:74254 Worker process terminated with ERROR: E_RECOVERABLE_ERROR "Argument 1 passed to React\HttpClient\Client::__construct() must be an instance of React\EventLoop\LoopInterface, instance of Workerman\Events\Select given, called in /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/Applications/Notificationproxy/start.php on line 26 and defined in /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/Applications/Notificationproxy/http-client-master/Client.php on line 13"
+2018-05-05 08:54:36 pid:74235 worker[notification:74254] exit with status 65280
+2018-05-05 08:55:04 pid:74235 Workerman[start.php] stopping ...
+2018-05-05 08:55:05 pid:74235 Workerman[start.php] has been stopped
+2018-05-05 08:55:05 pid:74285 Workerman[start.php] start in DEBUG mode
+2018-05-05 08:55:06 pid:74304 Worker process terminated with ERROR: E_ERROR "Class 'React\Socket\Connector' not found in /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/Applications/Notificationproxy/http-client-master/Client.php on line 16"
+2018-05-05 08:55:06 pid:74285 worker[notification:74304] exit with status 65280
+2018-05-05 08:59:59 pid:74285 Workerman[start.php] stopping ...
+2018-05-05 08:59:59 pid:74285 Workerman[start.php] has been stopped
+2018-05-05 09:06:51 pid:75106 Workerman[start.php] start in DEBUG mode
+2018-05-05 09:17:48 pid:75106 Workerman[start.php] stopping ...
+2018-05-05 09:17:48 pid:75106 Workerman[start.php] has been stopped
+2018-05-05 09:17:49 pid:75841 Workerman[start.php] start in DEBUG mode
+2018-05-05 09:18:03 pid:75841 Workerman[start.php] stopping ...
+2018-05-05 09:18:03 pid:75841 Workerman[start.php] has been stopped
+2018-05-05 09:18:03 pid:75876 Workerman[start.php] start in DEBUG mode
+2018-05-05 09:20:19 pid:75876 Workerman[start.php] stopping ...
+2018-05-05 09:20:19 pid:75876 Workerman[start.php] has been stopped
+2018-05-05 09:20:19 pid:76043 Workerman[start.php] start in DEBUG mode
+2018-05-05 09:21:05 pid:76043 Workerman[start.php] stopping ...
+2018-05-05 09:21:05 pid:76043 Workerman[start.php] has been stopped
+2018-05-05 09:21:06 pid:76122 Workerman[start.php] start in DEBUG mode
+2018-05-05 09:24:49 pid:76122 Workerman[start.php] stopping ...
+2018-05-05 09:24:49 pid:76122 Workerman[start.php] has been stopped
+2018-05-05 09:24:50 pid:76383 Workerman[start.php] start in DEBUG mode
+2018-05-05 09:25:11 pid:76383 Workerman[start.php] stopping ...
+2018-05-05 09:25:12 pid:76383 Workerman[start.php] has been stopped
+2018-05-05 09:25:12 pid:76426 Workerman[start.php] start in DEBUG mode
+2018-05-05 09:29:01 pid:76426 Workerman[start.php] stopping ...
+2018-05-05 09:29:01 pid:76426 Workerman[start.php] has been stopped
+2018-05-05 09:29:02 pid:76699 Workerman[start.php] start in DEBUG mode
+2018-05-05 09:29:29 pid:76699 Workerman[start.php] stopping ...
+2018-05-05 09:29:29 pid:76699 Workerman[start.php] has been stopped
+2018-05-05 09:29:29 pid:76747 Workerman[start.php] start in DEBUG mode
+2018-05-05 09:31:37 pid:76747 Workerman[start.php] stopping ...
+2018-05-05 09:31:37 pid:76747 Workerman[start.php] has been stopped
+2018-05-05 09:31:37 pid:76903 Workerman[start.php] start in DEBUG mode
+2018-05-05 09:33:54 pid:76903 Workerman[start.php] stopping ...
+2018-05-05 09:33:54 pid:76903 Workerman[start.php] has been stopped
+2018-05-05 09:33:55 pid:77076 Workerman[start.php] start in DEBUG mode
+2018-05-07 03:41:11 pid:77076 Workerman[start.php] stopping ...
+2018-05-07 03:41:12 pid:77076 Workerman[start.php] has been stopped
+2018-06-18 02:54:30 pid:82112 Workerman[start.php] start in DEBUG mode
+2018-06-26 04:43:21 pid:90412 Workerman[start.php] start in DEBUG mode
+2018-06-26 04:43:50 pid:90448 Workerman[start.php] start in DEBUG mode
+2018-06-26 04:44:34 pid:90507 Workerman[start.php] start in DEBUG mode
+2018-06-26 04:44:57 pid:90507 Workerman[start.php] stopping ...
+2018-06-26 04:44:57 pid:90507 Workerman[start.php] has been stopped
+2018-06-26 04:44:58 pid:90578 Workerman[start.php] start in DEBUG mode
+2018-06-26 04:45:08 pid:90592 Workerman[start.php] start in DEBUG mode
+2018-06-26 04:46:39 pid:90592 Workerman[start.php] stopping ...
+2018-06-26 04:46:39 pid:90592 Workerman[start.php] has been stopped
+2018-06-26 04:46:40 pid:90739 Workerman[start.php] start in DEBUG mode
+2018-06-26 04:47:34 pid:90739 Workerman[start.php] stopping ...
+2018-06-26 04:47:34 pid:90739 Workerman[start.php] has been stopped
+2018-06-26 04:47:35 pid:90841 Workerman[start.php] start in DEBUG mode
+2018-06-26 04:47:54 pid:90841 Workerman[start.php] stopping ...
+2018-06-26 04:47:54 pid:90841 Workerman[start.php] has been stopped
+2018-06-26 04:47:55 pid:90911 Workerman[start.php] start in DEBUG mode
+2018-06-26 04:49:23 pid:90911 Workerman[start.php] stopping ...
+2018-06-26 04:49:24 pid:90911 Workerman[start.php] has been stopped
+2018-06-26 04:49:24 pid:91056 Workerman[start.php] start in DEBUG mode
+2018-06-26 04:52:04 pid:91056 Workerman[start.php] stopping ...
+2018-06-26 04:52:05 pid:91056 Workerman[start.php] has been stopped
+2018-06-26 04:52:06 pid:91301 Workerman[start.php] start in DEBUG mode
+2018-06-26 04:52:30 pid:91301 Workerman[start.php] stopping ...
+2018-06-26 04:52:30 pid:91301 Workerman[start.php] has been stopped
+2018-06-26 04:52:30 pid:91365 Workerman[start.php] start in DEBUG mode
+2018-06-26 04:52:40 pid:91365 Workerman[start.php] stopping ...
+2018-06-26 04:52:40 pid:91365 Workerman[start.php] has been stopped
+2018-06-26 04:52:41 pid:91416 Workerman[start.php] start in DEBUG mode
+2018-06-26 04:54:58 pid:91416 Workerman[start.php] stopping ...
+2018-06-26 04:54:58 pid:91416 Workerman[start.php] has been stopped
+2018-06-26 06:40:14 pid:99655 Workerman[start.php] start in DEBUG mode
+2018-06-26 06:40:26 pid:99673 Workerman[start.php] start in DEBUG mode
+2018-06-26 06:42:57 pid:99673 Workerman[start.php] stopping ...
+2018-06-26 06:42:57 pid:99673 Workerman[start.php] has been stopped
+2018-06-26 06:42:58 pid:99923 Workerman[start.php] start in DEBUG mode
+2018-06-26 06:43:04 pid:99923 Workerman[start.php] stopping ...
+2018-06-26 06:43:04 pid:99923 Workerman[start.php] has been stopped
+2018-06-26 06:43:17 pid:99986 Workerman[start.php] start in DEBUG mode
+2018-06-26 06:44:14 pid:99986 Workerman[start.php] stopping ...
+2018-06-26 06:44:14 pid:99986 Workerman[start.php] has been stopped
+2018-06-26 06:44:15 pid:249 Workerman[start.php] start in DEBUG mode
+2018-06-26 06:49:48 pid:249 Workerman[start.php] stopping ...
+2018-06-26 06:49:49 pid:249 Workerman[start.php] has been stopped
+2018-06-26 06:49:49 pid:924 Workerman[start.php] start in DEBUG mode
+2018-06-26 06:51:43 pid:924 Workerman[start.php] stopping ...
+2018-06-26 06:51:43 pid:924 Workerman[start.php] has been stopped
+2018-06-26 06:51:44 pid:1106 Workerman[start.php] start in DEBUG mode
+2018-06-26 06:54:29 pid:1106 Workerman[start.php] stopping ...
+2018-06-26 06:54:29 pid:1106 Workerman[start.php] has been stopped
+2018-06-26 06:54:30 pid:1379 Workerman[start.php] start in DEBUG mode
+2018-06-26 06:54:32 pid:1412 exception 'Exception' with message 'class \Protocols\Https not exist' in /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Connection/AsyncTcpConnection.php:150
+Stack trace:
+#0 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/Applications/Shadowsocks/server.php(86): Workerman\Connection\AsyncTcpConnection->__construct('https://www.iba...')
+#1 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), '???????????????...')
+#2 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Connection/TcpConnection.php(662): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '???????????????...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #56)
+#4 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#5 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(2130): Workerman\Events\Select->loop()
+#6 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(1323): Workerman\Worker->run()
+#7 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(1156): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#8 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(1130): Workerman\Worker::forkWorkersForLinux()
+#9 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(466): Workerman\Worker::forkWorkers()
+#10 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/start.php(32): Workerman\Worker::runAll()
+#11 {main}
+2018-06-26 06:54:32 pid:1412 Worker process terminated
+2018-06-26 06:54:32 pid:1401 exception 'Exception' with message 'class \Protocols\Https not exist' in /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Connection/AsyncTcpConnection.php:150
+Stack trace:
+#0 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/Applications/Shadowsocks/server.php(86): Workerman\Connection\AsyncTcpConnection->__construct('https://www.iba...')
+#1 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), '??????????????k...')
+#2 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Connection/TcpConnection.php(662): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '??????????????k...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #56)
+#4 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#5 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(2130): Workerman\Events\Select->loop()
+#6 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(1323): Workerman\Worker->run()
+#7 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(1156): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#8 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(1130): Workerman\Worker::forkWorkersForLinux()
+#9 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(466): Workerman\Worker::forkWorkers()
+#10 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/start.php(32): Workerman\Worker::runAll()
+#11 {main}
+2018-06-26 06:54:32 pid:1401 Worker process terminated
+2018-06-26 06:54:32 pid:1402 exception 'Exception' with message 'class \Protocols\Https not exist' in /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Connection/AsyncTcpConnection.php:150
+Stack trace:
+#0 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/Applications/Shadowsocks/server.php(86): Workerman\Connection\AsyncTcpConnection->__construct('https://www.iba...')
+#1 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), '???????????p?|?...')
+#2 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Connection/TcpConnection.php(662): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '???????????p?|?...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #56)
+#4 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#5 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(2130): Workerman\Events\Select->loop()
+#6 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(1323): Workerman\Worker->run()
+#7 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(1156): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#8 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(1130): Workerman\Worker::forkWorkersForLinux()
+#9 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(466): Workerman\Worker::forkWorkers()
+#10 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/start.php(32): Workerman\Worker::runAll()
+#11 {main}
+2018-06-26 06:54:32 pid:1402 Worker process terminated
+2018-06-26 06:54:32 pid:1400 exception 'Exception' with message 'class \Protocols\Https not exist' in /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Connection/AsyncTcpConnection.php:150
+Stack trace:
+#0 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/Applications/Shadowsocks/server.php(86): Workerman\Connection\AsyncTcpConnection->__construct('https://www.iba...')
+#1 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), '???????????&???...')
+#2 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Connection/TcpConnection.php(662): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '???????????&???...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #56)
+#4 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#5 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(2130): Workerman\Events\Select->loop()
+#6 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(1323): Workerman\Worker->run()
+#7 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(1156): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#8 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(1130): Workerman\Worker::forkWorkersForLinux()
+#9 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(466): Workerman\Worker::forkWorkers()
+#10 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/start.php(32): Workerman\Worker::runAll()
+#11 {main}
+2018-06-26 06:54:32 pid:1379 worker[shadowsocks-server:1412] exit with status 64000
+2018-06-26 06:54:32 pid:1400 Worker process terminated
+2018-06-26 06:54:32 pid:1379 worker[shadowsocks-server:1401] exit with status 64000
+2018-06-26 06:54:33 pid:1379 worker[shadowsocks-server:1402] exit with status 64000
+2018-06-26 06:54:33 pid:1379 worker[shadowsocks-server:1400] exit with status 64000
+2018-06-26 06:54:37 pid:1422 exception 'Exception' with message 'class \Protocols\Https not exist' in /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Connection/AsyncTcpConnection.php:150
+Stack trace:
+#0 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/Applications/Shadowsocks/server.php(86): Workerman\Connection\AsyncTcpConnection->__construct('https://www.iba...')
+#1 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), '???????????; ??...')
+#2 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Connection/TcpConnection.php(662): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '???????????; ??...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #60)
+#4 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#5 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(2130): Workerman\Events\Select->loop()
+#6 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(1323): Workerman\Worker->run()
+#7 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(1156): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#8 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(1130): Workerman\Worker::forkWorkersForLinux()
+#9 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(1455): Workerman\Worker::forkWorkers()
+#10 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(1404): Workerman\Worker::monitorWorkersForLinux()
+#11 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(468): Workerman\Worker::monitorWorkers()
+#12 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/start.php(32): Workerman\Worker::runAll()
+#13 {main}
+2018-06-26 06:54:37 pid:1422 Worker process terminated
+2018-06-26 06:54:37 pid:1421 exception 'Exception' with message 'class \Protocols\Https not exist' in /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Connection/AsyncTcpConnection.php:150
+Stack trace:
+#0 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/Applications/Shadowsocks/server.php(86): Workerman\Connection\AsyncTcpConnection->__construct('https://www.iba...')
+#1 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), '????????????$W?...')
+#2 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Connection/TcpConnection.php(662): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '????????????$W?...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #59)
+#4 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#5 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(2130): Workerman\Events\Select->loop()
+#6 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(1323): Workerman\Worker->run()
+#7 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(1156): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#8 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(1130): Workerman\Worker::forkWorkersForLinux()
+#9 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(1455): Workerman\Worker::forkWorkers()
+#10 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(1404): Workerman\Worker::monitorWorkersForLinux()
+#11 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(468): Workerman\Worker::monitorWorkers()
+#12 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/start.php(32): Workerman\Worker::runAll()
+#13 {main}
+2018-06-26 06:54:37 pid:1421 Worker process terminated
+2018-06-26 06:54:37 pid:1413 exception 'Exception' with message 'class \Protocols\Https not exist' in /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Connection/AsyncTcpConnection.php:150
+Stack trace:
+#0 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/Applications/Shadowsocks/server.php(86): Workerman\Connection\AsyncTcpConnection->__construct('https://www.iba...')
+#1 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), '???????????^:i|...')
+#2 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Connection/TcpConnection.php(662): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '???????????^:i|...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #56)
+#4 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#5 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(2130): Workerman\Events\Select->loop()
+#6 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(1323): Workerman\Worker->run()
+#7 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(1156): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#8 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(1130): Workerman\Worker::forkWorkersForLinux()
+#9 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(466): Workerman\Worker::forkWorkers()
+#10 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/start.php(32): Workerman\Worker::runAll()
+#11 {main}
+2018-06-26 06:54:37 pid:1413 Worker process terminated
+2018-06-26 06:54:37 pid:1379 worker[shadowsocks-server:1422] exit with status 64000
+2018-06-26 06:54:37 pid:1404 exception 'Exception' with message 'class \Protocols\Https not exist' in /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Connection/AsyncTcpConnection.php:150
+Stack trace:
+#0 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/Applications/Shadowsocks/server.php(86): Workerman\Connection\AsyncTcpConnection->__construct('https://www.iba...')
+#1 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), '????????????6?X...')
+#2 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Connection/TcpConnection.php(662): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '????????????6?X...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #56)
+#4 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#5 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(2130): Workerman\Events\Select->loop()
+#6 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(1323): Workerman\Worker->run()
+#7 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(1156): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#8 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(1130): Workerman\Worker::forkWorkersForLinux()
+#9 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(466): Workerman\Worker::forkWorkers()
+#10 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/start.php(32): Workerman\Worker::runAll()
+#11 {main}
+2018-06-26 06:54:37 pid:1404 Worker process terminated
+2018-06-26 06:54:37 pid:1379 worker[shadowsocks-server:1421] exit with status 64000
+2018-06-26 06:54:37 pid:1379 worker[shadowsocks-server:1413] exit with status 64000
+2018-06-26 06:54:37 pid:1379 worker[shadowsocks-server:1404] exit with status 64000
+2018-06-26 06:54:38 pid:1428 exception 'Exception' with message 'class \Protocols\Https not exist' in /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Connection/AsyncTcpConnection.php:150
+Stack trace:
+#0 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/Applications/Shadowsocks/server.php(86): Workerman\Connection\AsyncTcpConnection->__construct('https://www.iba...')
+#1 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), '????????????u?\...')
+#2 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Connection/TcpConnection.php(662): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '????????????u?\...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #64)
+#4 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#5 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(2130): Workerman\Events\Select->loop()
+#6 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(1323): Workerman\Worker->run()
+#7 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(1156): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#8 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(1130): Workerman\Worker::forkWorkersForLinux()
+#9 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(1455): Workerman\Worker::forkWorkers()
+#10 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(1404): Workerman\Worker::monitorWorkersForLinux()
+#11 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(468): Workerman\Worker::monitorWorkers()
+#12 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/start.php(32): Workerman\Worker::runAll()
+#13 {main}
+2018-06-26 06:54:38 pid:1428 Worker process terminated
+2018-06-26 06:54:38 pid:1405 exception 'Exception' with message 'class \Protocols\Https not exist' in /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Connection/AsyncTcpConnection.php:150
+Stack trace:
+#0 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/Applications/Shadowsocks/server.php(86): Workerman\Connection\AsyncTcpConnection->__construct('https://www.iba...')
+#1 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), '?????????????w?...')
+#2 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Connection/TcpConnection.php(662): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '?????????????w?...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #56)
+#4 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#5 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(2130): Workerman\Events\Select->loop()
+#6 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(1323): Workerman\Worker->run()
+#7 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(1156): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#8 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(1130): Workerman\Worker::forkWorkersForLinux()
+#9 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(466): Workerman\Worker::forkWorkers()
+#10 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/start.php(32): Workerman\Worker::runAll()
+#11 {main}
+2018-06-26 06:54:38 pid:1405 Worker process terminated
+2018-06-26 06:54:38 pid:1409 exception 'Exception' with message 'class \Protocols\Https not exist' in /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Connection/AsyncTcpConnection.php:150
+Stack trace:
+#0 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/Applications/Shadowsocks/server.php(86): Workerman\Connection\AsyncTcpConnection->__construct('https://www.iba...')
+#1 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), '???????????n%"L...')
+#2 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Connection/TcpConnection.php(662): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '???????????n%"L...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #56)
+#4 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#5 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(2130): Workerman\Events\Select->loop()
+#6 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(1323): Workerman\Worker->run()
+#7 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(1156): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#8 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(1130): Workerman\Worker::forkWorkersForLinux()
+#9 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(466): Workerman\Worker::forkWorkers()
+#10 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/start.php(32): Workerman\Worker::runAll()
+#11 {main}
+2018-06-26 06:54:38 pid:1409 Worker process terminated
+2018-06-26 06:54:38 pid:1403 exception 'Exception' with message 'class \Protocols\Https not exist' in /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Connection/AsyncTcpConnection.php:150
+Stack trace:
+#0 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/Applications/Shadowsocks/server.php(86): Workerman\Connection\AsyncTcpConnection->__construct('https://www.iba...')
+#1 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), '???????????????...')
+#2 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Connection/TcpConnection.php(662): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '???????????????...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #56)
+#4 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#5 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(2130): Workerman\Events\Select->loop()
+#6 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(1323): Workerman\Worker->run()
+#7 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(1156): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#8 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(1130): Workerman\Worker::forkWorkersForLinux()
+#9 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(466): Workerman\Worker::forkWorkers()
+#10 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/start.php(32): Workerman\Worker::runAll()
+#11 {main}
+2018-06-26 06:54:38 pid:1403 Worker process terminated
+2018-06-26 06:54:38 pid:1379 worker[shadowsocks-server:1428] exit with status 64000
+2018-06-26 06:54:38 pid:1379 worker[shadowsocks-server:1405] exit with status 64000
+2018-06-26 06:54:38 pid:1379 worker[shadowsocks-server:1409] exit with status 64000
+2018-06-26 06:54:38 pid:1379 worker[shadowsocks-server:1403] exit with status 64000
+2018-06-26 06:54:39 pid:1433 exception 'Exception' with message 'class \Protocols\Https not exist' in /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Connection/AsyncTcpConnection.php:150
+Stack trace:
+#0 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/Applications/Shadowsocks/server.php(86): Workerman\Connection\AsyncTcpConnection->__construct('https://www.iba...')
+#1 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), '?????????????<?...')
+#2 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Connection/TcpConnection.php(662): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '?????????????<?...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #68)
+#4 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#5 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(2130): Workerman\Events\Select->loop()
+#6 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(1323): Workerman\Worker->run()
+#7 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(1156): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#8 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(1130): Workerman\Worker::forkWorkersForLinux()
+#9 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(1455): Workerman\Worker::forkWorkers()
+#10 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(1404): Workerman\Worker::monitorWorkersForLinux()
+#11 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(468): Workerman\Worker::monitorWorkers()
+#12 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/start.php(32): Workerman\Worker::runAll()
+#13 {main}
+2018-06-26 06:54:39 pid:1433 Worker process terminated
+2018-06-26 06:54:39 pid:1419 exception 'Exception' with message 'class \Protocols\Https not exist' in /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Connection/AsyncTcpConnection.php:150
+Stack trace:
+#0 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/Applications/Shadowsocks/server.php(86): Workerman\Connection\AsyncTcpConnection->__construct('https://www.iba...')
+#1 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), '???????????\???...')
+#2 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Connection/TcpConnection.php(662): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '???????????\???...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #57)
+#4 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#5 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(2130): Workerman\Events\Select->loop()
+#6 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(1323): Workerman\Worker->run()
+#7 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(1156): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#8 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(1130): Workerman\Worker::forkWorkersForLinux()
+#9 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(1455): Workerman\Worker::forkWorkers()
+#10 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(1404): Workerman\Worker::monitorWorkersForLinux()
+#11 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(468): Workerman\Worker::monitorWorkers()
+#12 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/start.php(32): Workerman\Worker::runAll()
+#13 {main}
+2018-06-26 06:54:39 pid:1419 Worker process terminated
+2018-06-26 06:54:39 pid:1432 exception 'Exception' with message 'class \Protocols\Https not exist' in /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Connection/AsyncTcpConnection.php:150
+Stack trace:
+#0 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/Applications/Shadowsocks/server.php(86): Workerman\Connection\AsyncTcpConnection->__construct('https://www.iba...')
+#1 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), '????????????dj?...')
+#2 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Connection/TcpConnection.php(662): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '????????????dj?...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #67)
+#4 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#5 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(2130): Workerman\Events\Select->loop()
+#6 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(1323): Workerman\Worker->run()
+#7 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(1156): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#8 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(1130): Workerman\Worker::forkWorkersForLinux()
+#9 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(1455): Workerman\Worker::forkWorkers()
+#10 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(1404): Workerman\Worker::monitorWorkersForLinux()
+#11 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(468): Workerman\Worker::monitorWorkers()
+#12 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/start.php(32): Workerman\Worker::runAll()
+#13 {main}
+2018-06-26 06:54:39 pid:1432 Worker process terminated
+2018-06-26 06:54:39 pid:1410 exception 'Exception' with message 'class \Protocols\Https not exist' in /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Connection/AsyncTcpConnection.php:150
+Stack trace:
+#0 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/Applications/Shadowsocks/server.php(86): Workerman\Connection\AsyncTcpConnection->__construct('https://www.iba...')
+#1 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), '???????????S???...')
+#2 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Connection/TcpConnection.php(662): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '???????????S???...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #56)
+#4 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#5 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(2130): Workerman\Events\Select->loop()
+#6 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(1323): Workerman\Worker->run()
+#7 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(1156): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#8 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(1130): Workerman\Worker::forkWorkersForLinux()
+#9 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(466): Workerman\Worker::forkWorkers()
+#10 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/start.php(32): Workerman\Worker::runAll()
+#11 {main}
+2018-06-26 06:54:39 pid:1410 Worker process terminated
+2018-06-26 06:54:39 pid:1379 worker[shadowsocks-server:1433] exit with status 64000
+2018-06-26 06:54:39 pid:1379 worker[shadowsocks-server:1419] exit with status 64000
+2018-06-26 06:54:39 pid:1379 worker[shadowsocks-server:1432] exit with status 64000
+2018-06-26 06:54:39 pid:1379 worker[shadowsocks-server:1410] exit with status 64000
+2018-06-26 06:54:40 pid:1436 exception 'Exception' with message 'class \Protocols\Https not exist' in /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Connection/AsyncTcpConnection.php:150
+Stack trace:
+#0 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/Applications/Shadowsocks/server.php(86): Workerman\Connection\AsyncTcpConnection->__construct('https://www.iba...')
+#1 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), '???????????C??W...')
+#2 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Connection/TcpConnection.php(662): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '???????????C??W...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #70)
+#4 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#5 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(2130): Workerman\Events\Select->loop()
+#6 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(1323): Workerman\Worker->run()
+#7 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(1156): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#8 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(1130): Workerman\Worker::forkWorkersForLinux()
+#9 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(1455): Workerman\Worker::forkWorkers()
+#10 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(1404): Workerman\Worker::monitorWorkersForLinux()
+#11 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(468): Workerman\Worker::monitorWorkers()
+#12 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/start.php(32): Workerman\Worker::runAll()
+#13 {main}
+2018-06-26 06:54:40 pid:1436 Worker process terminated
+2018-06-26 06:54:40 pid:1420 exception 'Exception' with message 'class \Protocols\Https not exist' in /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Connection/AsyncTcpConnection.php:150
+Stack trace:
+#0 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/Applications/Shadowsocks/server.php(86): Workerman\Connection\AsyncTcpConnection->__construct('https://www.iba...')
+#1 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), '???????????;&?S...')
+#2 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Connection/TcpConnection.php(662): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '???????????;&?S...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #58)
+#4 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#5 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(2130): Workerman\Events\Select->loop()
+#6 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(1323): Workerman\Worker->run()
+#7 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(1156): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#8 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(1130): Workerman\Worker::forkWorkersForLinux()
+#9 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(1455): Workerman\Worker::forkWorkers()
+#10 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(1404): Workerman\Worker::monitorWorkersForLinux()
+#11 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(468): Workerman\Worker::monitorWorkers()
+#12 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/start.php(32): Workerman\Worker::runAll()
+#13 {main}
+2018-06-26 06:54:40 pid:1420 Worker process terminated
+2018-06-26 06:54:40 pid:1435 exception 'Exception' with message 'class \Protocols\Https not exist' in /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Connection/AsyncTcpConnection.php:150
+Stack trace:
+#0 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/Applications/Shadowsocks/server.php(86): Workerman\Connection\AsyncTcpConnection->__construct('https://www.iba...')
+#1 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), '?????????????V)...')
+#2 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Connection/TcpConnection.php(662): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '?????????????V)...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #69)
+#4 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#5 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(2130): Workerman\Events\Select->loop()
+#6 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(1323): Workerman\Worker->run()
+#7 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(1156): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#8 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(1130): Workerman\Worker::forkWorkersForLinux()
+#9 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(1455): Workerman\Worker::forkWorkers()
+#10 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(1404): Workerman\Worker::monitorWorkersForLinux()
+#11 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(468): Workerman\Worker::monitorWorkers()
+#12 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/start.php(32): Workerman\Worker::runAll()
+#13 {main}
+2018-06-26 06:54:40 pid:1435 Worker process terminated
+2018-06-26 06:54:40 pid:1425 exception 'Exception' with message 'class \Protocols\Https not exist' in /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Connection/AsyncTcpConnection.php:150
+Stack trace:
+#0 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/Applications/Shadowsocks/server.php(86): Workerman\Connection\AsyncTcpConnection->__construct('https://www.iba...')
+#1 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), '??????????????_...')
+#2 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Connection/TcpConnection.php(662): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '??????????????_...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #61)
+#4 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#5 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(2130): Workerman\Events\Select->loop()
+#6 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(1323): Workerman\Worker->run()
+#7 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(1156): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#8 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(1130): Workerman\Worker::forkWorkersForLinux()
+#9 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(1455): Workerman\Worker::forkWorkers()
+#10 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(1404): Workerman\Worker::monitorWorkersForLinux()
+#11 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/vendor/workerman/workerman/Worker.php(468): Workerman\Worker::monitorWorkers()
+#12 /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/start.php(32): Workerman\Worker::runAll()
+#13 {main}
+2018-06-26 06:54:40 pid:1425 Worker process terminated
+2018-06-26 06:54:40 pid:1379 worker[shadowsocks-server:1436] exit with status 64000
+2018-06-26 06:54:40 pid:1379 worker[shadowsocks-server:1420] exit with status 64000
+2018-06-26 06:54:40 pid:1379 worker[shadowsocks-server:1425] exit with status 64000
+2018-06-26 06:54:40 pid:1379 worker[shadowsocks-server:1435] exit with status 64000
+2018-06-26 06:55:24 pid:1379 Workerman[start.php] stopping ...
+2018-06-26 06:55:25 pid:1379 Workerman[start.php] has been stopped
+2018-06-26 06:55:25 pid:1503 Workerman[start.php] start in DEBUG mode
+2018-06-26 07:11:38 pid:1503 Workerman[start.php] stopping ...
+2018-06-26 07:11:38 pid:1503 Workerman[start.php] has been stopped
+2018-06-26 10:38:41 pid:18581 Workerman[start.php] start in DEBUG mode
+2018-06-28 07:00:28 pid:3071 Workerman[start.php] start in DEBUG mode
+2018-06-28 07:01:21 pid:3137 Workerman[start.php] start in DEBUG mode
+2018-06-28 07:01:25 pid:3144 Workerman[start.php] start in DEBUG mode
+2018-06-28 07:01:27 pid:3145 Workerman[start.php] start in DEBUG mode
+2018-06-28 07:05:53 pid:3445 Workerman[start.php] start in DEBUG mode
+2018-06-28 07:07:40 pid:3563 Workerman[start.php] start in DEBUG mode
+2018-06-28 10:45:06 pid:7161 Workerman[start.php] start in DEBUG mode
+2018-06-28 10:45:13 pid:7161 Workerman[start.php] stopping ...
+2018-06-28 10:45:13 pid:7161 Workerman[start.php] has been stopped
+2018-06-28 10:45:56 pid:7251 Workerman[start.php] start in DEBUG mode
+2018-06-28 10:46:04 pid:7251 Workerman[start.php] stopping ...
+2018-06-28 10:46:05 pid:7251 Workerman[start.php] has been stopped
+2018-06-28 10:46:05 pid:7285 Workerman[start.php] start in DEBUG mode
+2018-06-28 10:46:29 pid:7285 Workerman[start.php] stopping ...
+2018-06-28 10:46:29 pid:7285 Workerman[start.php] has been stopped
+2018-06-28 10:46:29 pid:7342 Workerman[start.php] start in DEBUG mode
+2018-06-28 10:49:51 pid:7342 Workerman[start.php] stopping ...
+2018-06-28 10:49:51 pid:7342 Workerman[start.php] has been stopped
+2018-06-28 10:49:51 pid:7588 Workerman[start.php] start in DEBUG mode
+2018-06-28 10:50:20 pid:7588 Workerman[start.php] stopping ...
+2018-06-28 10:50:20 pid:7588 Workerman[start.php] has been stopped
+2018-06-28 10:50:20 pid:7649 Workerman[start.php] start in DEBUG mode
+2018-06-28 10:50:39 pid:7649 Workerman[start.php] stopping ...
+2018-06-28 10:50:39 pid:7649 Workerman[start.php] has been stopped
+2018-06-28 10:50:40 pid:7694 Workerman[start.php] start in DEBUG mode
+2018-06-28 10:50:59 pid:7694 Workerman[start.php] stopping ...
+2018-06-28 10:50:59 pid:7694 Workerman[start.php] has been stopped
+2018-06-28 10:50:59 pid:7751 Workerman[start.php] start in DEBUG mode
+2018-06-28 10:52:06 pid:7751 Workerman[start.php] stopping ...
+2018-06-28 10:52:06 pid:7751 Workerman[start.php] has been stopped
+2018-06-28 11:01:08 pid:8438 Workerman[start.php] start in DEBUG mode
+2018-09-18 04:07:45 pid:51355 Workerman[start.php] start in DEBUG mode
+2018-09-18 04:07:59 pid:51355 Workerman[start.php] stopping ...
+2018-09-18 04:07:59 pid:51355 Workerman[start.php] has been stopped
+2018-09-18 04:08:37 pid:51433 Workerman[start.php] start in DEBUG mode
+2018-09-18 04:10:20 pid:51465 Worker process terminated with ERROR: E_ERROR "Call to a member function decrypt() on a non-object in /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/Applications/Shadowsocks/server.php on line 74"
+2018-09-18 04:10:20 pid:51433 worker[shadowsocks-server:51465] exit with status 65280
+2018-09-18 04:10:20 pid:51464 Worker process terminated with ERROR: E_ERROR "Call to a member function decrypt() on a non-object in /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/Applications/Shadowsocks/server.php on line 74"
+2018-09-18 04:10:21 pid:51433 worker[shadowsocks-server:51464] exit with status 65280
+2018-09-18 04:10:22 pid:51462 Worker process terminated with ERROR: E_ERROR "Call to a member function decrypt() on a non-object in /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/Applications/Shadowsocks/server.php on line 74"
+2018-09-18 04:10:22 pid:51433 worker[shadowsocks-server:51462] exit with status 65280
+2018-09-18 04:10:22 pid:51460 Worker process terminated with ERROR: E_ERROR "Call to a member function decrypt() on a non-object in /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/Applications/Shadowsocks/server.php on line 74"
+2018-09-18 04:10:23 pid:51433 worker[shadowsocks-server:51460] exit with status 65280
+2018-09-18 04:10:24 pid:51567 Worker process terminated with ERROR: E_ERROR "Call to a member function decrypt() on a non-object in /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/Applications/Shadowsocks/server.php on line 74"
+2018-09-18 04:10:24 pid:51433 worker[shadowsocks-server:51567] exit with status 65280
+2018-09-18 04:10:32 pid:51569 Worker process terminated with ERROR: E_ERROR "Call to a member function decrypt() on a non-object in /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/Applications/Shadowsocks/server.php on line 74"
+2018-09-18 04:10:32 pid:51433 worker[shadowsocks-server:51569] exit with status 65280
+2018-09-18 04:10:33 pid:51576 Worker process terminated with ERROR: E_ERROR "Call to a member function decrypt() on a non-object in /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/Applications/Shadowsocks/server.php on line 74"
+2018-09-18 04:10:33 pid:51433 worker[shadowsocks-server:51576] exit with status 65280
+2018-09-18 04:10:34 pid:51587 Worker process terminated with ERROR: E_ERROR "Call to a member function decrypt() on a non-object in /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/Applications/Shadowsocks/server.php on line 74"
+2018-09-18 04:10:34 pid:51433 worker[shadowsocks-server:51587] exit with status 65280
+2018-09-18 04:10:35 pid:51461 Worker process terminated with ERROR: E_ERROR "Call to a member function decrypt() on a non-object in /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/Applications/Shadowsocks/server.php on line 74"
+2018-09-18 04:10:35 pid:51433 worker[shadowsocks-server:51461] exit with status 65280
+2018-09-18 04:10:36 pid:51588 Worker process terminated with ERROR: E_ERROR "Call to a member function decrypt() on a non-object in /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/Applications/Shadowsocks/server.php on line 74"
+2018-09-18 04:10:36 pid:51433 worker[shadowsocks-server:51588] exit with status 65280
+2018-09-18 04:30:22 pid:51433 Workerman[start.php] stopping ...
+2018-09-18 04:30:22 pid:51433 Workerman[start.php] has been stopped
+2018-09-18 04:30:22 pid:52693 Workerman[start.php] start in DEBUG mode
+2018-09-18 04:40:39 pid:52693 Workerman[start.php] stopping ...
+2018-09-18 04:40:39 pid:52693 Workerman[start.php] has been stopped
+2018-09-18 04:40:40 pid:53365 Workerman[start.php] start in DEBUG mode
+2018-09-18 04:40:42 pid:53393 Worker process terminated with ERROR: E_ERROR "Call to a member function decrypt() on a non-object in /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/Applications/Shadowsocks/server.php on line 87"
+2018-09-18 04:40:42 pid:53365 worker[shadowsocks-server:53393] exit with status 65280
+2018-09-18 04:40:43 pid:53396 Worker process terminated with ERROR: E_ERROR "Call to a member function decrypt() on a non-object in /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/Applications/Shadowsocks/server.php on line 87"
+2018-09-18 04:40:43 pid:53365 worker[shadowsocks-server:53396] exit with status 65280
+2018-09-18 04:40:44 pid:53402 Worker process terminated with ERROR: E_ERROR "Call to a member function decrypt() on a non-object in /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/Applications/Shadowsocks/server.php on line 87"
+2018-09-18 04:40:44 pid:53365 worker[shadowsocks-server:53402] exit with status 65280
+2018-09-18 04:40:45 pid:53404 Worker process terminated with ERROR: E_ERROR "Call to a member function decrypt() on a non-object in /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/Applications/Shadowsocks/server.php on line 87"
+2018-09-18 04:40:45 pid:53365 worker[shadowsocks-server:53404] exit with status 65280
+2018-09-18 04:40:46 pid:53397 Worker process terminated with ERROR: E_ERROR "Call to a member function decrypt() on a non-object in /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/Applications/Shadowsocks/server.php on line 87"
+2018-09-18 04:40:46 pid:53365 worker[shadowsocks-server:53397] exit with status 65280
+2018-09-18 04:40:46 pid:53365 Workerman[start.php] stopping ...
+2018-09-18 04:40:47 pid:53365 Workerman[start.php] has been stopped
+2018-09-18 04:42:33 pid:53512 Workerman[start.php] start in DEBUG mode
+2018-09-18 04:42:40 pid:53544 Worker process terminated with ERROR: E_ERROR "Call to undefined method Workerman\Connection\UdpConnection::resumeRecv() in /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/Applications/Shadowsocks/server.php on line 127"
+2018-09-18 04:42:40 pid:53512 worker[shadowsocks-server:53544] exit with status 65280
+2018-09-18 04:42:41 pid:53542 Worker process terminated with ERROR: E_ERROR "Call to undefined method Workerman\Connection\UdpConnection::resumeRecv() in /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/Applications/Shadowsocks/server.php on line 127"
+2018-09-18 04:42:41 pid:53512 worker[shadowsocks-server:53542] exit with status 65280
+2018-09-18 04:42:42 pid:53543 Worker process terminated with ERROR: E_ERROR "Call to undefined method Workerman\Connection\UdpConnection::resumeRecv() in /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/Applications/Shadowsocks/server.php on line 127"
+2018-09-18 04:42:42 pid:53512 worker[shadowsocks-server:53543] exit with status 65280
+2018-09-18 04:51:30 pid:53512 Workerman[start.php] stopping ...
+2018-09-18 04:51:30 pid:53512 Workerman[start.php] has been stopped
+2018-09-18 04:51:31 pid:54050 Workerman[start.php] start in DEBUG mode
+2018-09-18 04:53:10 pid:54050 Workerman[start.php] stopping ...
+2018-09-18 04:53:10 pid:54050 Workerman[start.php] has been stopped
+2018-09-18 04:53:10 pid:54184 Workerman[start.php] start in DEBUG mode
+2018-09-18 04:53:12 pid:54216 Worker process terminated with ERROR: E_ERROR "Call to a member function decrypt() on a non-object in /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/Applications/Shadowsocks/server.php on line 68"
+2018-09-18 04:53:12 pid:54184 worker[shadowsocks-server:54216] exit with status 65280
+2018-09-18 04:53:13 pid:54215 Worker process terminated with ERROR: E_ERROR "Call to a member function decrypt() on a non-object in /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/Applications/Shadowsocks/server.php on line 68"
+2018-09-18 04:53:13 pid:54184 worker[shadowsocks-server:54215] exit with status 65280
+2018-09-18 04:53:14 pid:54214 Worker process terminated with ERROR: E_ERROR "Call to a member function decrypt() on a non-object in /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/Applications/Shadowsocks/server.php on line 68"
+2018-09-18 04:53:14 pid:54184 worker[shadowsocks-server:54214] exit with status 65280
+2018-09-18 04:53:15 pid:54222 Worker process terminated with ERROR: E_ERROR "Call to a member function decrypt() on a non-object in /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/Applications/Shadowsocks/server.php on line 68"
+2018-09-18 04:53:15 pid:54184 worker[shadowsocks-server:54222] exit with status 65280
+2018-09-18 04:53:16 pid:54211 Worker process terminated with ERROR: E_ERROR "Call to a member function decrypt() on a non-object in /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/Applications/Shadowsocks/server.php on line 68"
+2018-09-18 04:53:16 pid:54184 worker[shadowsocks-server:54211] exit with status 65280
+2018-09-18 04:53:19 pid:54184 Workerman[start.php] stopping ...
+2018-09-18 04:53:19 pid:54184 Workerman[start.php] has been stopped
+2018-09-18 04:53:27 pid:54239 Workerman[start.php] start in DEBUG mode
+2018-09-18 04:56:43 pid:54239 Workerman[start.php] stopping ...
+2018-09-18 04:56:43 pid:54239 Workerman[start.php] has been stopped
+2018-09-18 04:56:44 pid:54466 Workerman[start.php] start in DEBUG mode
+2018-09-18 04:56:45 pid:54498 Worker process terminated with ERROR: E_ERROR "Call to undefined method Workerman\Connection\AsyncUdpConnection::pipe() in /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/Applications/Shadowsocks/server.php on line 80"
+2018-09-18 04:56:45 pid:54466 worker[shadowsocks-server:54498] exit with status 65280
+2018-09-18 04:56:46 pid:54496 Worker process terminated with ERROR: E_ERROR "Call to undefined method Workerman\Connection\AsyncUdpConnection::pipe() in /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/Applications/Shadowsocks/server.php on line 80"
+2018-09-18 04:56:46 pid:54466 worker[shadowsocks-server:54496] exit with status 65280
+2018-09-18 04:56:47 pid:54497 Worker process terminated with ERROR: E_ERROR "Call to undefined method Workerman\Connection\AsyncUdpConnection::pipe() in /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/Applications/Shadowsocks/server.php on line 80"
+2018-09-18 04:56:47 pid:54466 worker[shadowsocks-server:54497] exit with status 65280
+2018-09-18 04:56:47 pid:54466 Workerman[start.php] stopping ...
+2018-09-18 04:56:48 pid:54466 Workerman[start.php] has been stopped
+2018-09-18 04:57:23 pid:54540 Workerman[start.php] start in DEBUG mode
+2018-09-18 04:57:25 pid:54572 Worker process terminated with ERROR: E_ERROR "Call to undefined method Workerman\Connection\UdpConnection::connect() in /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/Applications/Shadowsocks/server.php on line 80"
+2018-09-18 04:57:25 pid:54540 worker[shadowsocks-server:54572] exit with status 65280
+2018-09-18 04:57:26 pid:54571 Worker process terminated with ERROR: E_ERROR "Call to undefined method Workerman\Connection\UdpConnection::connect() in /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/Applications/Shadowsocks/server.php on line 80"
+2018-09-18 04:57:26 pid:54540 worker[shadowsocks-server:54571] exit with status 65280
+2018-09-18 04:57:27 pid:54570 Worker process terminated with ERROR: E_ERROR "Call to undefined method Workerman\Connection\UdpConnection::connect() in /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/Applications/Shadowsocks/server.php on line 80"
+2018-09-18 04:57:27 pid:54540 worker[shadowsocks-server:54570] exit with status 65280
+2018-09-18 04:57:28 pid:54567 Worker process terminated with ERROR: E_ERROR "Call to undefined method Workerman\Connection\UdpConnection::connect() in /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/Applications/Shadowsocks/server.php on line 80"
+2018-09-18 04:57:28 pid:54540 worker[shadowsocks-server:54567] exit with status 65280
+2018-09-18 04:57:29 pid:54581 Worker process terminated with ERROR: E_ERROR "Call to undefined method Workerman\Connection\UdpConnection::connect() in /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/Applications/Shadowsocks/server.php on line 80"
+2018-09-18 04:57:29 pid:54540 worker[shadowsocks-server:54581] exit with status 65280
+2018-09-18 04:57:32 pid:54540 Workerman[start.php] stopping ...
+2018-09-18 04:57:32 pid:54540 Workerman[start.php] has been stopped
+2018-09-18 04:57:33 pid:54592 Workerman[start.php] start in DEBUG mode
+2018-09-18 04:58:46 pid:54592 Workerman[start.php] stopping ...
+2018-09-18 04:58:46 pid:54592 Workerman[start.php] has been stopped
+2018-09-18 04:58:47 pid:54700 Workerman[start.php] start in DEBUG mode
+2018-09-18 05:02:04 pid:54700 Workerman[start.php] stopping ...
+2018-09-18 05:02:04 pid:54700 Workerman[start.php] has been stopped
+2018-09-18 05:02:10 pid:54939 Workerman[start.php] start in DEBUG mode
+2018-09-18 05:02:39 pid:54939 Workerman[start.php] stopping ...
+2018-09-18 05:02:39 pid:54939 Workerman[start.php] has been stopped
+2018-09-18 05:02:40 pid:55005 Workerman[start.php] start in DEBUG mode
+2018-09-18 05:05:52 pid:55005 Workerman[start.php] stopping ...
+2018-09-18 05:05:52 pid:55005 Workerman[start.php] has been stopped
+2018-09-18 05:05:52 pid:55220 Workerman[start.php] start in DEBUG mode
+2018-09-18 05:08:44 pid:55220 Workerman[start.php] stopping ...
+2018-09-18 05:08:44 pid:55220 Workerman[start.php] has been stopped
+2018-09-18 05:08:45 pid:55411 Workerman[start.php] start in DEBUG mode
+2018-09-18 05:27:15 pid:55411 Workerman[start.php] stopping ...
+2018-09-18 05:27:15 pid:55411 Workerman[start.php] has been stopped
+2018-09-18 05:27:16 pid:56627 Workerman[start.php] start in DEBUG mode
+2018-09-18 05:27:22 pid:56658 Worker process terminated with ERROR: E_ERROR "Using $this when not in object context in /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/Applications/Shadowsocks/server.php on line 86"
+2018-09-18 05:27:22 pid:56627 worker[shadowsocks-server:56658] exit with status 65280
+2018-09-18 05:27:23 pid:56659 Worker process terminated with ERROR: E_ERROR "Using $this when not in object context in /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/Applications/Shadowsocks/server.php on line 86"
+2018-09-18 05:27:23 pid:56627 worker[shadowsocks-server:56659] exit with status 65280
+2018-09-18 05:27:23 pid:56666 Worker process terminated with ERROR: E_ERROR "Using $this when not in object context in /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/Applications/Shadowsocks/server.php on line 86"
+2018-09-18 05:27:23 pid:56627 worker[shadowsocks-server:56666] exit with status 65280
+2018-09-18 05:27:25 pid:56667 Worker process terminated with ERROR: E_ERROR "Using $this when not in object context in /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/Applications/Shadowsocks/server.php on line 86"
+2018-09-18 05:27:25 pid:56627 worker[shadowsocks-server:56667] exit with status 65280
+2018-09-18 05:27:26 pid:56654 Worker process terminated with ERROR: E_ERROR "Using $this when not in object context in /Users/firzen/Documents/e/APMEX/htdocs/ibay365/branches/ent0428mrdeng.source/_common/lib/workerman-jsonrpc/Applications/Shadowsocks/server.php on line 86"
+2018-09-18 05:27:26 pid:56627 worker[shadowsocks-server:56654] exit with status 65280
+2018-09-18 05:27:36 pid:56627 Workerman[start.php] stopping ...
+2018-09-18 05:27:36 pid:56627 Workerman[start.php] has been stopped
+2018-09-18 05:27:37 pid:56699 Workerman[start.php] start in DEBUG mode
+2018-09-18 05:32:01 pid:56699 Workerman[start.php] stopping ...
+2018-09-18 05:32:02 pid:56699 Workerman[start.php] has been stopped
+2018-09-18 05:32:02 pid:57016 Workerman[start.php] start in DEBUG mode
+2018-09-18 05:35:40 pid:57016 Workerman[start.php] stopping ...
+2018-09-18 05:35:40 pid:57016 Workerman[start.php] has been stopped
+2018-09-18 05:35:41 pid:57265 Workerman[start.php] start in DEBUG mode
+2018-09-18 05:37:13 pid:57265 Workerman[start.php] stopping ...
+2018-09-18 05:37:13 pid:57265 Workerman[start.php] has been stopped
+2018-09-18 05:37:14 pid:57396 Workerman[start.php] start in DEBUG mode
+2018-09-18 05:39:38 pid:57396 Workerman[start.php] stopping ...
+2018-09-18 05:39:38 pid:57396 Workerman[start.php] has been stopped
+2018-09-18 05:39:39 pid:57571 Workerman[start.php] start in DEBUG mode
+2018-09-18 05:40:19 pid:57571 Workerman[start.php] stopping ...
+2018-09-18 05:40:19 pid:57571 Workerman[start.php] has been stopped
+2018-09-18 05:40:19 pid:57656 Workerman[start.php] start in DEBUG mode
+2018-09-18 05:41:23 pid:57656 Workerman[start.php] stopping ...
+2018-09-18 05:41:23 pid:57656 Workerman[start.php] has been stopped
+2018-09-18 05:41:23 pid:57762 Workerman[start.php] start in DEBUG mode
+2018-09-18 05:50:45 pid:57762 Workerman[start.php] stopping ...
+2018-09-18 05:50:45 pid:57762 Workerman[start.php] has been stopped
+2018-09-18 06:05:35 pid:59308 Workerman[start.php] start in DEBUG mode
+2018-09-18 06:05:40 pid:59308 Workerman[start.php] stopping ...
+2018-09-18 06:05:41 pid:59308 Workerman[start.php] has been stopped
+2018-09-18 07:58:57 pid:65925 Workerman[start.php] start in DEBUG mode
+2018-09-18 07:59:46 pid:65925 Workerman[start.php] stopping ...
+2018-09-18 07:59:46 pid:65925 Workerman[start.php] has been stopped
+2018-09-18 07:59:46 pid:66030 Workerman[start.php] start in DEBUG mode
+2018-09-18 08:00:49 pid:66030 Workerman[start.php] stopping ...
+2018-09-18 08:00:49 pid:66030 Workerman[start.php] has been stopped
+2018-09-18 08:00:49 pid:66127 Workerman[start.php] start in DEBUG mode
+2018-09-18 08:01:12 pid:66127 Workerman[start.php] stopping ...
+2018-09-18 08:01:12 pid:66127 Workerman[start.php] has been stopped
+2018-09-18 08:01:13 pid:66189 Workerman[start.php] start in DEBUG mode
+2018-09-18 08:01:20 pid:66189 Workerman[start.php] stopping ...
+2018-09-18 08:01:20 pid:66189 Workerman[start.php] has been stopped
+2018-09-18 08:01:21 pid:66229 Workerman[start.php] start in DEBUG mode
+2018-09-18 08:16:21 pid:66229 Workerman[start.php] stopping ...
+2018-09-18 08:16:21 pid:66229 Workerman[start.php] has been stopped
+2018-11-20 06:32:48 pid:29723 Workerman[start.php] start in DEBUG mode
+2018-11-20 06:33:04 pid:29723 Workerman[start.php] stopping ...
+2018-11-20 06:33:04 pid:29723 Workerman[start.php] has been stopped
+2018-11-20 06:33:57 pid:29816 Workerman[start.php] start in DEBUG mode
+2018-11-20 06:33:59 pid:29816 Workerman[start.php] stopping ...
+2018-11-20 06:33:59 pid:29816 Workerman[start.php] has been stopped
+2018-11-20 06:34:12 pid:29863 Workerman[start.php] start in DEBUG mode
+2018-11-20 06:34:53 pid:29863 Workerman[start.php] stopping ...
+2018-11-20 06:34:53 pid:29863 Workerman[start.php] has been stopped
+2018-11-20 06:34:54 pid:29951 Workerman[start.php] start in DEBUG mode
+2018-11-20 06:37:50 pid:29951 Workerman[start.php] stopping ...
+2018-11-20 06:37:50 pid:29951 Workerman[start.php] has been stopped
+2018-11-20 06:37:51 pid:30151 Workerman[start.php] start in DEBUG mode
+2018-11-20 06:37:59 pid:30151 Workerman[start.php] stopping ...
+2018-11-20 06:37:59 pid:30151 Workerman[start.php] has been stopped
+2018-11-20 06:38:00 pid:30200 Workerman[start.php] start in DEBUG mode
+2018-11-20 06:44:33 pid:30200 Workerman[start.php] stopping ...
+2018-11-20 06:44:33 pid:30200 Workerman[start.php] has been stopped
+2018-11-20 06:44:55 pid:30594 Workerman[start.php] start in DEBUG mode
+2018-11-20 06:46:56 pid:30594 Workerman[start.php] stopping ...
+2018-11-20 06:46:56 pid:30594 Workerman[start.php] has been stopped
+2018-11-20 06:46:57 pid:30746 Workerman[start.php] start in DEBUG mode
+2018-11-20 12:16:47 pid:30746 Workerman[start.php] stopping ...
+2018-11-20 12:16:47 pid:30746 Workerman[start.php] has been stopped
+2018-11-20 12:16:48 pid:32436 Workerman[start.php] start in DEBUG mode
+2018-11-20 12:20:05 pid:32436 Workerman[start.php] stopping ...
+2018-11-20 12:20:06 pid:32436 Workerman[start.php] has been stopped
+2018-11-20 12:20:07 pid:32648 Workerman[start.php] start in DEBUG mode
+2018-11-20 12:25:08 pid:32648 Workerman[start.php] stopping ...
+2018-11-20 12:25:08 pid:32648 Workerman[start.php] has been stopped
+2018-11-20 12:25:09 pid:33003 Workerman[start.php] start in DEBUG mode
+2018-11-20 12:25:28 pid:33003 Workerman[start.php] stopping ...
+2018-11-20 12:25:29 pid:33003 Workerman[start.php] has been stopped
+2018-11-20 12:25:39 pid:33077 Workerman[start.php] start in DEBUG mode
+2018-11-20 12:25:56 pid:33077 Workerman[start.php] stopping ...
+2018-11-20 12:25:56 pid:33077 Workerman[start.php] has been stopped
+2018-11-20 12:25:57 pid:33127 Workerman[start.php] start in DEBUG mode
+2018-11-20 12:26:48 pid:33127 Workerman[start.php] stopping ...
+2018-11-20 12:26:48 pid:33127 Workerman[start.php] has been stopped
+2018-11-20 12:26:49 pid:33207 Workerman[start.php] start in DEBUG mode
+2018-11-20 12:31:12 pid:33207 Workerman[start.php] stopping ...
+2018-11-20 12:31:12 pid:33207 Workerman[start.php] has been stopped
+2018-11-20 12:31:13 pid:33488 Workerman[start.php] start in DEBUG mode
+2018-11-20 13:42:08 pid:33488 Workerman[start.php] stopping ...
+2018-11-20 13:42:08 pid:33488 Workerman[start.php] has been stopped
+2018-11-20 14:16:19 pid:38396 Workerman[start.php] start in DEBUG mode
+2018-11-21 07:58:01 pid:38396 Workerman[start.php] stopping ...
+2018-11-21 07:58:01 pid:38396 Workerman[start.php] has been stopped
+2018-11-21 07:58:02 pid:51775 Workerman[start.php] start in DEBUG mode
+2018-11-21 07:58:07 pid:51775 Workerman[start.php] stopping ...
+2018-11-21 07:58:07 pid:51775 Workerman[start.php] has been stopped
+2018-11-21 09:09:34 pid:55736 Workerman[start.php] start in DEBUG mode
+2018-11-21 09:10:25 pid:55736 Workerman[start.php] stopping ...
+2018-11-21 09:10:25 pid:55736 Workerman[start.php] has been stopped
+2018-11-21 09:10:26 pid:55826 Workerman[start.php] start in DEBUG mode
+2018-11-21 09:11:34 pid:55826 Workerman[start.php] stopping ...
+2018-11-21 09:11:34 pid:55826 Workerman[start.php] has been stopped
+2018-11-21 09:11:35 pid:55935 Workerman[start.php] start in DEBUG mode
+2018-11-21 09:11:45 pid:55935 Workerman[start.php] stopping ...
+2018-11-21 09:11:45 pid:55935 Workerman[start.php] has been stopped
+2018-11-21 09:12:02 pid:56002 Workerman[start.php] start in DEBUG mode
+2018-11-21 09:12:43 pid:56101 Workerman[start.php] status 
+2018-11-21 09:13:22 pid:56136 Workerman[start.php] status 
+2018-11-21 09:18:27 pid:56002 Workerman[start.php] stopping ...
+2018-11-21 09:18:27 pid:56002 Workerman[start.php] has been stopped
+2018-11-21 09:18:27 pid:56411 Workerman[start.php] start in DEBUG mode
+2018-11-21 09:19:01 pid:56411 Workerman[start.php] stopping ...
+2018-11-21 09:19:01 pid:56411 Workerman[start.php] has been stopped
+2018-11-21 09:19:01 pid:56485 Workerman[start.php] start in DEBUG mode
+2018-11-21 09:22:06 pid:56485 Workerman[start.php] stopping ...
+2018-11-21 09:22:06 pid:56485 Workerman[start.php] has been stopped
+2018-11-21 09:22:07 pid:56702 Workerman[start.php] start in DEBUG mode
+2018-11-21 09:40:55 pid:56702 Workerman[start.php] stopping ...
+2018-11-21 09:40:56 pid:56702 Workerman[start.php] has been stopped
+2018-11-21 09:40:56 pid:57763 Workerman[start.php] start in DEBUG mode
+2018-11-21 09:45:31 pid:57763 Workerman[start.php] stopping ...
+2018-11-21 09:45:31 pid:57763 Workerman[start.php] has been stopped
+2018-11-21 09:45:32 pid:58058 Workerman[start.php] start in DEBUG mode
+2018-11-21 09:46:01 pid:58058 Workerman[start.php] stopping ...
+2018-11-21 09:46:01 pid:58058 Workerman[start.php] has been stopped
+2018-11-21 09:46:01 pid:58124 Workerman[start.php] start in DEBUG mode
+2018-11-21 09:46:38 pid:58124 Workerman[start.php] stopping ...
+2018-11-21 09:46:38 pid:58124 Workerman[start.php] has been stopped
+2018-11-21 09:46:39 pid:58201 Workerman[start.php] start in DEBUG mode
+2018-11-21 09:46:41 pid:58201 Workerman[start.php] stopping ...
+2018-11-21 09:46:42 pid:58201 Workerman[start.php] has been stopped
+2018-11-21 09:47:55 pid:58305 Workerman[start.php] start in DEBUG mode
+2018-11-22 07:26:53 pid:58305 Workerman[start.php] stopping ...
+2018-11-22 07:26:53 pid:58305 Workerman[start.php] has been stopped
+2018-12-04 05:17:24 pid:57901 Workerman[start.php] start in DEBUG mode
+2018-12-04 05:17:51 pid:57901 Workerman[start.php] stopping ...
+2018-12-04 05:17:52 pid:57901 Workerman[start.php] has been stopped
+2018-12-04 05:17:53 pid:57968 Workerman[start.php] start in DEBUG mode
+2018-12-04 05:18:16 pid:57968 Workerman[start.php] stopping ...
+2018-12-04 05:18:16 pid:57968 Workerman[start.php] has been stopped
+2018-12-04 05:18:29 pid:58041 Workerman[start.php] start in DEBUG mode
+2018-12-04 05:19:34 pid:58041 Workerman[start.php] stopping ...
+2018-12-04 05:19:35 pid:58041 Workerman[start.php] has been stopped
+2018-12-04 05:19:36 pid:58134 Workerman[start.php] start in DEBUG mode
+2018-12-04 05:25:26 pid:58134 Workerman[start.php] stopping ...
+2018-12-04 05:25:27 pid:58134 Workerman[start.php] has been stopped
+2018-12-04 05:25:27 pid:58487 Workerman[start.php] start in DEBUG mode
+2018-12-04 05:33:31 pid:58487 Workerman[start.php] stopping ...
+2018-12-04 05:33:32 pid:58487 Workerman[start.php] has been stopped
+2018-12-04 05:33:33 pid:58978 Workerman[start.php] start in DEBUG mode
+2018-12-04 05:34:07 pid:58978 Workerman[start.php] stopping ...
+2018-12-04 05:34:07 pid:58978 Workerman[start.php] has been stopped
+2018-12-04 05:34:08 pid:59052 Workerman[start.php] start in DEBUG mode
+2018-12-04 08:55:49 pid:59052 Workerman[start.php] stopping ...
+2018-12-04 08:55:49 pid:59052 Workerman[start.php] has been stopped
+2018-12-13 06:39:14 pid:26635 Workerman[start.php] start in DEBUG mode
+2018-12-13 06:40:02 pid:26635 Workerman[start.php] stopping ...
+2018-12-13 06:40:02 pid:26635 Workerman[start.php] has been stopped
+2018-12-13 06:40:03 pid:26684 Workerman[start.php] start in DEBUG mode
+2018-12-13 06:43:15 pid:26684 Workerman[start.php] stopping ...
+2018-12-13 06:43:15 pid:26684 Workerman[start.php] has been stopped
+2018-12-13 06:43:16 pid:26741 Workerman[start.php] start in DEBUG mode
+2018-12-13 06:43:45 pid:26741 Workerman[start.php] stopping ...
+2018-12-13 06:43:45 pid:26741 Workerman[start.php] has been stopped
+2018-12-13 06:43:45 pid:26785 Workerman[start.php] start in DEBUG mode
+2018-12-13 06:46:20 pid:26785 Workerman[start.php] stopping ...
+2018-12-13 06:46:20 pid:26785 Workerman[start.php] has been stopped
+2018-12-13 06:46:21 pid:26836 Workerman[start.php] start in DEBUG mode
+2018-12-13 06:49:41 pid:26836 Workerman[start.php] stopping ...
+2018-12-13 06:49:41 pid:26836 Workerman[start.php] has been stopped
+2018-12-13 06:49:43 pid:26905 Workerman[start.php] start in DEBUG mode
+2018-12-13 07:32:07 pid:26905 Workerman[start.php] stopping ...
+2018-12-13 07:32:08 pid:26905 Workerman[start.php] has been stopped
+2018-12-13 07:32:09 pid:27203 Workerman[start.php] start in DEBUG mode
+2018-12-13 07:33:14 pid:27203 Workerman[start.php] stopping ...
+2018-12-13 07:33:15 pid:27203 Workerman[start.php] has been stopped
+2018-12-13 07:33:15 pid:27251 Workerman[start.php] start in DEBUG mode
+2018-12-13 07:34:04 pid:27251 Workerman[start.php] stopping ...
+2018-12-13 07:34:04 pid:27251 Workerman[start.php] has been stopped
+2018-12-13 07:34:04 pid:27295 Workerman[start.php] start in DEBUG mode
+2018-12-13 07:35:58 pid:27295 Workerman[start.php] stopping ...
+2018-12-13 07:35:58 pid:27295 Workerman[start.php] has been stopped
+2018-12-13 07:35:59 pid:27346 Workerman[start.php] start in DEBUG mode
+2018-12-13 07:36:06 pid:27346 Workerman[start.php] stopping ...
+2018-12-13 07:36:06 pid:27346 Workerman[start.php] has been stopped
+2018-12-13 07:36:06 pid:27386 Workerman[start.php] start in DEBUG mode
+2018-12-13 07:37:02 pid:27386 Workerman[start.php] stopping ...
+2018-12-13 07:37:02 pid:27386 Workerman[start.php] has been stopped
+2018-12-13 07:37:02 pid:27434 Workerman[start.php] start in DEBUG mode
+2018-12-13 07:39:03 pid:27434 Workerman[start.php] stopping ...
+2018-12-13 07:39:03 pid:27434 Workerman[start.php] has been stopped
+2018-12-13 07:39:05 pid:27484 Workerman[start.php] start in DEBUG mode
+2018-12-13 07:39:38 pid:27484 Workerman[start.php] stopping ...
+2018-12-13 07:39:38 pid:27484 Workerman[start.php] has been stopped
+2018-12-13 07:39:39 pid:27529 Workerman[start.php] start in DEBUG mode
+2018-12-13 07:46:23 pid:27529 Workerman[start.php] stopping ...
+2018-12-13 07:46:23 pid:27529 Workerman[start.php] has been stopped
+2018-12-13 07:46:24 pid:27606 Workerman[start.php] start in DEBUG mode
+2018-12-13 09:35:14 pid:27606 Workerman[start.php] stopping ...
+2018-12-13 09:35:14 pid:27606 Workerman[start.php] has been stopped
+2018-12-16 06:43:29 pid:5053 Workerman[start.php] start in DEBUG mode
+2018-12-16 06:49:08 pid:5053 Workerman[start.php] stopping ...
+2018-12-16 06:49:09 pid:5053 Workerman[start.php] has been stopped
+2018-12-16 06:49:10 pid:5419 Workerman[start.php] start in DEBUG mode
+2018-12-16 06:57:45 pid:5419 Workerman[start.php] stopping ...
+2018-12-16 06:57:45 pid:5419 Workerman[start.php] has been stopped
+2018-12-16 06:58:28 pid:6034 Workerman[start.php] start in DEBUG mode
+2018-12-16 07:05:10 pid:6034 Workerman[start.php] stopping ...
+2018-12-16 07:05:10 pid:6034 Workerman[start.php] has been stopped
+2018-12-16 07:05:11 pid:6478 Workerman[start.php] start in DEBUG mode
+2018-12-16 07:06:10 pid:6478 Workerman[start.php] stopping ...
+2018-12-16 07:06:10 pid:6478 Workerman[start.php] has been stopped
+2018-12-16 07:06:11 pid:6576 Workerman[start.php] start in DEBUG mode
+2018-12-16 07:06:45 pid:6576 Workerman[start.php] stopping ...
+2018-12-16 07:06:45 pid:6576 Workerman[start.php] has been stopped
+2018-12-16 07:06:46 pid:6651 Workerman[start.php] start in DEBUG mode
+2018-12-16 07:08:01 pid:6651 Workerman[start.php] stopping ...
+2018-12-16 07:08:01 pid:6651 Workerman[start.php] has been stopped
+2018-12-16 07:08:02 pid:6764 Workerman[start.php] start in DEBUG mode
+2018-12-16 07:08:30 pid:6764 Workerman[start.php] stopping ...
+2018-12-16 07:08:30 pid:6764 Workerman[start.php] has been stopped
+2018-12-16 07:08:47 pid:6873 Workerman[start.php] start in DEBUG mode
+2018-12-16 07:09:45 pid:6873 Workerman[start.php] stopping ...
+2018-12-16 07:09:46 pid:6873 Workerman[start.php] has been stopped
+2018-12-16 07:09:46 pid:6969 Workerman[start.php] start in DEBUG mode
+2018-12-16 07:10:20 pid:7043 Workerman[start.php] status 
+2018-12-16 07:10:34 pid:7057 Workerman[start.php] status 
+2018-12-17 04:07:20 pid:6969 Workerman[start.php] stopping ...
+2018-12-17 04:07:20 pid:6969 Workerman[start.php] has been stopped
+2019-09-19 10:30:41 pid:46284 Workerman[start.php] start in DEBUG mode
+2019-09-19 10:30:47 pid:46284 Workerman[start.php] stopping ...
+2019-09-19 10:30:47 pid:46284 Workerman[start.php] has been stopped
+2019-09-19 10:30:55 pid:46295 Workerman[start.php] start in DEBUG mode
+2019-09-19 10:31:01 pid:46295 Workerman[start.php] stopping ...
+2019-09-19 10:31:01 pid:46295 Workerman[start.php] has been stopped
+2019-09-19 10:31:13 pid:46310 Workerman[start.php] start in DEBUG mode
+2019-09-19 10:35:50 pid:46310 Workerman[start.php] stopping ...
+2019-09-19 10:35:50 pid:46310 Workerman[start.php] has been stopped
+2019-09-19 10:35:50 pid:46627 Workerman[start.php] start in DEBUG mode
+2019-09-19 10:36:05 pid:46627 Workerman[start.php] stopping ...
+2019-09-19 10:36:05 pid:46627 Workerman[start.php] has been stopped
+2019-09-19 10:36:05 pid:46641 Workerman[start.php] start in DEBUG mode
+2019-09-19 10:36:12 pid:46641 Workerman[start.php] stopping ...
+2019-09-19 10:36:12 pid:46641 Workerman[start.php] has been stopped
+2019-09-19 10:36:26 pid:46663 Workerman[start.php] start in DEBUG mode
+2019-09-19 10:36:29 pid:46663 Workerman[start.php] stopping ...
+2019-09-19 10:36:29 pid:46663 Workerman[start.php] has been stopped
+2019-09-19 10:36:34 pid:46664 Workerman[start.php] start in DEBUG mode
+2019-09-19 10:36:39 pid:46664 Workerman[start.php] stopping ...
+2019-09-19 10:36:39 pid:46664 Workerman[start.php] has been stopped
+2019-09-19 10:36:47 pid:46675 Workerman[start.php] start in DEBUG mode
+2019-09-19 10:36:57 pid:46675 Workerman[start.php] stopping ...
+2019-09-19 10:36:57 pid:46675 Workerman[start.php] has been stopped
+2019-09-19 10:37:27 pid:46709 Workerman[start.php] start in DEBUG mode
+2019-09-19 10:37:31 pid:46709 Workerman[start.php] stopping ...
+2019-09-19 10:37:31 pid:46709 Workerman[start.php] has been stopped
+2019-09-19 10:38:01 pid:46742 Workerman[start.php] start in DEBUG mode
+2019-09-19 10:38:03 pid:46742 Workerman[start.php] stopping ...
+2019-09-19 10:38:03 pid:46742 Workerman[start.php] has been stopped
+2019-09-19 10:38:28 pid:46763 Workerman[start.php] start in DEBUG mode
+2019-09-19 10:38:30 pid:46763 Workerman[start.php] stopping ...
+2019-09-19 10:38:30 pid:46763 Workerman[start.php] has been stopped
+2019-11-19 13:16:35 pid:15440 Workerman[start.php] start in DEBUG mode
+2019-11-19 13:18:16 pid:15440 Workerman[start.php] stopping ...
+2019-11-19 13:18:16 pid:15440 Workerman[start.php] has been stopped
+2019-11-19 13:18:17 pid:15559 Workerman[start.php] start in DEBUG mode
+2019-11-19 13:18:20 pid:15559 Workerman[start.php] stopping ...
+2019-11-19 13:18:20 pid:15559 Workerman[start.php] has been stopped
+2019-11-19 13:29:32 pid:16210 Workerman[start.php] start in DEBUG mode
+2019-11-19 13:29:33 pid:16210 Workerman[start.php] stopping ...
+2019-11-19 13:29:33 pid:16210 Workerman[start.php] has been stopped
+2019-11-19 13:34:23 pid:16474 Workerman[start.php] start in DEBUG mode
+2019-11-19 13:34:25 pid:16474 Workerman[start.php] stopping ...
+2019-11-19 13:34:25 pid:16474 Workerman[start.php] has been stopped
+2019-11-19 13:44:17 pid:17070 Workerman[start.php] start in DEBUG mode
+2019-11-19 13:44:18 pid:17070 Workerman[start.php] stopping ...
+2019-11-19 13:44:18 pid:17070 Workerman[start.php] has been stopped
+2019-11-19 13:46:35 pid:17214 Workerman[start.php] start in DEBUG mode
+2019-11-19 13:46:38 pid:17214 Workerman[start.php] stopping ...
+2019-11-19 13:46:38 pid:17214 Workerman[start.php] has been stopped
+2019-11-19 13:46:51 pid:17232 Workerman[start.php] start in DEBUG mode
+2019-11-19 13:46:53 pid:17232 Workerman[start.php] stopping ...
+2019-11-19 13:46:53 pid:17232 Workerman[start.php] has been stopped
+2019-11-19 13:47:18 pid:17260 Workerman[start.php] start in DEBUG mode
+2019-11-19 13:47:19 pid:17260 Workerman[start.php] stopping ...
+2019-11-19 13:47:19 pid:17260 Workerman[start.php] has been stopped
+2019-11-19 13:47:26 pid:17276 Workerman[start.php] start in DEBUG mode
+2019-11-19 13:47:29 pid:17276 Workerman[start.php] stopping ...
+2019-11-19 13:47:29 pid:17276 Workerman[start.php] has been stopped
+2019-11-19 13:49:41 pid:17412 Workerman[start.php] start in DEBUG mode
+2019-11-19 13:49:47 pid:17412 Workerman[start.php] stopping ...
+2019-11-19 13:49:47 pid:17412 Workerman[start.php] has been stopped
+2019-11-19 13:50:13 pid:17451 Workerman[start.php] start in DEBUG mode
+2019-11-19 13:50:15 pid:17451 Workerman[start.php] stopping ...
+2019-11-19 13:50:15 pid:17451 Workerman[start.php] has been stopped
+2019-11-19 13:50:38 pid:17478 Workerman[start.php] start in DEBUG mode
+2019-11-19 13:50:38 pid:17479 Worker process terminated with ERROR: E_ERROR "Interface 'AtomInterface' not found in /Users/firzen/Sites/htdocs/workerman-api-monitor/Applications/ApiMonitor/Atom/clock.php on line 2"
+2019-11-19 13:50:38 pid:17478 worker[ApiMonitor:17479] exit with status 65280
+2019-11-19 13:50:38 pid:17484 Worker process terminated with ERROR: E_ERROR "Interface 'AtomInterface' not found in /Users/firzen/Sites/htdocs/workerman-api-monitor/Applications/ApiMonitor/Atom/clock.php on line 2"
+2019-11-19 13:50:38 pid:17478 worker[ApiMonitor:17484] exit with status 65280
+2019-11-19 13:50:38 pid:17485 Worker process terminated with ERROR: E_ERROR "Interface 'AtomInterface' not found in /Users/firzen/Sites/htdocs/workerman-api-monitor/Applications/ApiMonitor/Atom/clock.php on line 2"
+2019-11-19 13:50:38 pid:17478 worker[ApiMonitor:17485] exit with status 65280
+2019-11-19 13:50:38 pid:17486 Worker process terminated with ERROR: E_ERROR "Interface 'AtomInterface' not found in /Users/firzen/Sites/htdocs/workerman-api-monitor/Applications/ApiMonitor/Atom/clock.php on line 2"
+2019-11-19 13:50:38 pid:17478 worker[ApiMonitor:17486] exit with status 65280
+2019-11-19 13:50:38 pid:17487 Worker process terminated with ERROR: E_ERROR "Interface 'AtomInterface' not found in /Users/firzen/Sites/htdocs/workerman-api-monitor/Applications/ApiMonitor/Atom/clock.php on line 2"
+2019-11-19 13:50:38 pid:17478 worker[ApiMonitor:17487] exit with status 65280
+2019-11-19 13:50:38 pid:17488 Worker process terminated with ERROR: E_ERROR "Interface 'AtomInterface' not found in /Users/firzen/Sites/htdocs/workerman-api-monitor/Applications/ApiMonitor/Atom/clock.php on line 2"
+2019-11-19 13:50:39 pid:17478 worker[ApiMonitor:17488] exit with status 65280
+2019-11-19 13:50:39 pid:17489 Worker process terminated with ERROR: E_ERROR "Interface 'AtomInterface' not found in /Users/firzen/Sites/htdocs/workerman-api-monitor/Applications/ApiMonitor/Atom/clock.php on line 2"
+2019-11-19 13:50:39 pid:17478 worker[ApiMonitor:17489] exit with status 65280
+2019-11-19 13:50:39 pid:17490 Worker process terminated with ERROR: E_ERROR "Interface 'AtomInterface' not found in /Users/firzen/Sites/htdocs/workerman-api-monitor/Applications/ApiMonitor/Atom/clock.php on line 2"
+2019-11-19 13:50:39 pid:17478 worker[ApiMonitor:17490] exit with status 65280
+2019-11-19 13:50:39 pid:17491 Worker process terminated with ERROR: E_ERROR "Interface 'AtomInterface' not found in /Users/firzen/Sites/htdocs/workerman-api-monitor/Applications/ApiMonitor/Atom/clock.php on line 2"
+2019-11-19 13:50:39 pid:17478 worker[ApiMonitor:17491] exit with status 65280
+2019-11-19 13:50:39 pid:17492 Worker process terminated with ERROR: E_ERROR "Interface 'AtomInterface' not found in /Users/firzen/Sites/htdocs/workerman-api-monitor/Applications/ApiMonitor/Atom/clock.php on line 2"
+2019-11-19 13:50:39 pid:17478 worker[ApiMonitor:17492] exit with status 65280
+2019-11-19 13:50:39 pid:17493 Worker process terminated with ERROR: E_ERROR "Interface 'AtomInterface' not found in /Users/firzen/Sites/htdocs/workerman-api-monitor/Applications/ApiMonitor/Atom/clock.php on line 2"
+2019-11-19 13:50:39 pid:17478 worker[ApiMonitor:17493] exit with status 65280
+2019-11-19 13:50:39 pid:17494 Worker process terminated with ERROR: E_ERROR "Interface 'AtomInterface' not found in /Users/firzen/Sites/htdocs/workerman-api-monitor/Applications/ApiMonitor/Atom/clock.php on line 2"
+2019-11-19 13:50:39 pid:17478 worker[ApiMonitor:17494] exit with status 65280
+2019-11-19 13:50:39 pid:17495 Worker process terminated with ERROR: E_ERROR "Interface 'AtomInterface' not found in /Users/firzen/Sites/htdocs/workerman-api-monitor/Applications/ApiMonitor/Atom/clock.php on line 2"
+2019-11-19 13:50:39 pid:17478 worker[ApiMonitor:17495] exit with status 65280
+2019-11-19 13:50:39 pid:17496 Worker process terminated with ERROR: E_ERROR "Interface 'AtomInterface' not found in /Users/firzen/Sites/htdocs/workerman-api-monitor/Applications/ApiMonitor/Atom/clock.php on line 2"
+2019-11-19 13:50:39 pid:17478 worker[ApiMonitor:17496] exit with status 65280
+2019-11-19 13:50:39 pid:17497 Worker process terminated with ERROR: E_ERROR "Interface 'AtomInterface' not found in /Users/firzen/Sites/htdocs/workerman-api-monitor/Applications/ApiMonitor/Atom/clock.php on line 2"
+2019-11-19 13:50:39 pid:17478 worker[ApiMonitor:17497] exit with status 65280
+2019-11-19 13:50:39 pid:17498 Worker process terminated with ERROR: E_ERROR "Interface 'AtomInterface' not found in /Users/firzen/Sites/htdocs/workerman-api-monitor/Applications/ApiMonitor/Atom/clock.php on line 2"
+2019-11-19 13:50:39 pid:17478 worker[ApiMonitor:17498] exit with status 65280
+2019-11-19 13:50:39 pid:17499 Worker process terminated with ERROR: E_ERROR "Interface 'AtomInterface' not found in /Users/firzen/Sites/htdocs/workerman-api-monitor/Applications/ApiMonitor/Atom/clock.php on line 2"
+2019-11-19 13:50:39 pid:17478 worker[ApiMonitor:17499] exit with status 65280
+2019-11-19 13:50:39 pid:17500 Worker process terminated with ERROR: E_ERROR "Interface 'AtomInterface' not found in /Users/firzen/Sites/htdocs/workerman-api-monitor/Applications/ApiMonitor/Atom/clock.php on line 2"
+2019-11-19 13:50:39 pid:17478 worker[ApiMonitor:17500] exit with status 65280
+2019-11-19 13:50:39 pid:17501 Worker process terminated with ERROR: E_ERROR "Interface 'AtomInterface' not found in /Users/firzen/Sites/htdocs/workerman-api-monitor/Applications/ApiMonitor/Atom/clock.php on line 2"
+2019-11-19 13:50:39 pid:17478 worker[ApiMonitor:17501] exit with status 65280
+2019-11-19 13:50:39 pid:17502 Worker process terminated with ERROR: E_ERROR "Interface 'AtomInterface' not found in /Users/firzen/Sites/htdocs/workerman-api-monitor/Applications/ApiMonitor/Atom/clock.php on line 2"
+2019-11-19 13:50:39 pid:17478 worker[ApiMonitor:17502] exit with status 65280
+2019-11-19 13:50:39 pid:17503 Worker process terminated with ERROR: E_ERROR "Interface 'AtomInterface' not found in /Users/firzen/Sites/htdocs/workerman-api-monitor/Applications/ApiMonitor/Atom/clock.php on line 2"
+2019-11-19 13:50:39 pid:17478 worker[ApiMonitor:17503] exit with status 65280
+2019-11-19 13:50:39 pid:17504 Worker process terminated with ERROR: E_ERROR "Interface 'AtomInterface' not found in /Users/firzen/Sites/htdocs/workerman-api-monitor/Applications/ApiMonitor/Atom/clock.php on line 2"
+2019-11-19 13:50:39 pid:17478 worker[ApiMonitor:17504] exit with status 65280
+2019-11-19 13:50:39 pid:17505 Worker process terminated with ERROR: E_ERROR "Interface 'AtomInterface' not found in /Users/firzen/Sites/htdocs/workerman-api-monitor/Applications/ApiMonitor/Atom/clock.php on line 2"
+2019-11-19 13:50:39 pid:17478 worker[ApiMonitor:17505] exit with status 65280
+2019-11-19 13:50:39 pid:17506 Worker process terminated with ERROR: E_ERROR "Interface 'AtomInterface' not found in /Users/firzen/Sites/htdocs/workerman-api-monitor/Applications/ApiMonitor/Atom/clock.php on line 2"
+2019-11-19 13:50:39 pid:17478 worker[ApiMonitor:17506] exit with status 65280
+2019-11-19 13:50:39 pid:17507 Worker process terminated with ERROR: E_ERROR "Interface 'AtomInterface' not found in /Users/firzen/Sites/htdocs/workerman-api-monitor/Applications/ApiMonitor/Atom/clock.php on line 2"
+2019-11-19 13:50:39 pid:17478 worker[ApiMonitor:17507] exit with status 65280
+2019-11-19 13:50:39 pid:17508 Worker process terminated with ERROR: E_ERROR "Interface 'AtomInterface' not found in /Users/firzen/Sites/htdocs/workerman-api-monitor/Applications/ApiMonitor/Atom/clock.php on line 2"
+2019-11-19 13:50:39 pid:17478 worker[ApiMonitor:17508] exit with status 65280
+2019-11-19 13:50:39 pid:17509 Worker process terminated with ERROR: E_ERROR "Interface 'AtomInterface' not found in /Users/firzen/Sites/htdocs/workerman-api-monitor/Applications/ApiMonitor/Atom/clock.php on line 2"
+2019-11-19 13:50:39 pid:17478 worker[ApiMonitor:17509] exit with status 65280
+2019-11-19 13:50:39 pid:17510 Worker process terminated with ERROR: E_ERROR "Interface 'AtomInterface' not found in /Users/firzen/Sites/htdocs/workerman-api-monitor/Applications/ApiMonitor/Atom/clock.php on line 2"
+2019-11-19 13:50:39 pid:17478 worker[ApiMonitor:17510] exit with status 65280
+2019-11-19 13:50:39 pid:17511 Worker process terminated with ERROR: E_ERROR "Interface 'AtomInterface' not found in /Users/firzen/Sites/htdocs/workerman-api-monitor/Applications/ApiMonitor/Atom/clock.php on line 2"
+2019-11-19 13:50:39 pid:17478 worker[ApiMonitor:17511] exit with status 65280
+2019-11-19 13:50:39 pid:17512 Worker process terminated with ERROR: E_ERROR "Interface 'AtomInterface' not found in /Users/firzen/Sites/htdocs/workerman-api-monitor/Applications/ApiMonitor/Atom/clock.php on line 2"
+2019-11-19 13:50:39 pid:17478 worker[ApiMonitor:17512] exit with status 65280
+2019-11-19 13:50:39 pid:17513 Worker process terminated with ERROR: E_ERROR "Interface 'AtomInterface' not found in /Users/firzen/Sites/htdocs/workerman-api-monitor/Applications/ApiMonitor/Atom/clock.php on line 2"
+2019-11-19 13:50:39 pid:17478 worker[ApiMonitor:17513] exit with status 65280
+2019-11-19 13:50:39 pid:17514 Worker process terminated with ERROR: E_ERROR "Interface 'AtomInterface' not found in /Users/firzen/Sites/htdocs/workerman-api-monitor/Applications/ApiMonitor/Atom/clock.php on line 2"
+2019-11-19 13:50:39 pid:17478 worker[ApiMonitor:17514] exit with status 65280
+2019-11-19 13:50:39 pid:17515 Worker process terminated with ERROR: E_ERROR "Interface 'AtomInterface' not found in /Users/firzen/Sites/htdocs/workerman-api-monitor/Applications/ApiMonitor/Atom/clock.php on line 2"
+2019-11-19 13:50:40 pid:17478 worker[ApiMonitor:17515] exit with status 65280
+2019-11-19 13:50:40 pid:17516 Worker process terminated with ERROR: E_ERROR "Interface 'AtomInterface' not found in /Users/firzen/Sites/htdocs/workerman-api-monitor/Applications/ApiMonitor/Atom/clock.php on line 2"
+2019-11-19 13:50:40 pid:17478 worker[ApiMonitor:17516] exit with status 65280
+2019-11-19 13:50:40 pid:17517 Worker process terminated with ERROR: E_ERROR "Interface 'AtomInterface' not found in /Users/firzen/Sites/htdocs/workerman-api-monitor/Applications/ApiMonitor/Atom/clock.php on line 2"
+2019-11-19 13:50:40 pid:17478 worker[ApiMonitor:17517] exit with status 65280
+2019-11-19 13:50:40 pid:17478 Workerman[start.php] stopping ...
+2019-11-19 13:50:40 pid:17518 Worker process terminated with ERROR: E_ERROR "Interface 'AtomInterface' not found in /Users/firzen/Sites/htdocs/workerman-api-monitor/Applications/ApiMonitor/Atom/clock.php on line 2"
+2019-11-19 13:50:40 pid:17478 worker[ApiMonitor:17518] exit with status 65280
+2019-11-19 13:50:40 pid:17478 Workerman[start.php] has been stopped
+2019-11-19 13:52:18 pid:17604 Workerman[start.php] start in DEBUG mode
+2019-11-19 13:52:18 pid:17605 Worker process terminated with ERROR: E_ERROR "Class Clock contains 3 abstract methods and must therefore be declared abstract or implement the remaining methods (AtomInterface::getNameSpace, AtomInterface::getName, AtomInterface::getLoopTime) in /Users/firzen/Sites/htdocs/workerman-api-monitor/Applications/ApiMonitor/Atom/clock.php on line 2"
+2019-11-19 13:52:18 pid:17604 worker[ApiMonitor:17605] exit with status 65280
+2019-11-19 13:52:18 pid:17610 Worker process terminated with ERROR: E_ERROR "Class Clock contains 3 abstract methods and must therefore be declared abstract or implement the remaining methods (AtomInterface::getNameSpace, AtomInterface::getName, AtomInterface::getLoopTime) in /Users/firzen/Sites/htdocs/workerman-api-monitor/Applications/ApiMonitor/Atom/clock.php on line 2"
+2019-11-19 13:52:18 pid:17604 worker[ApiMonitor:17610] exit with status 65280
+2019-11-19 13:52:18 pid:17611 Worker process terminated with ERROR: E_ERROR "Class Clock contains 3 abstract methods and must therefore be declared abstract or implement the remaining methods (AtomInterface::getNameSpace, AtomInterface::getName, AtomInterface::getLoopTime) in /Users/firzen/Sites/htdocs/workerman-api-monitor/Applications/ApiMonitor/Atom/clock.php on line 2"
+2019-11-19 13:52:18 pid:17604 worker[ApiMonitor:17611] exit with status 65280
+2019-11-19 13:52:18 pid:17612 Worker process terminated with ERROR: E_ERROR "Class Clock contains 3 abstract methods and must therefore be declared abstract or implement the remaining methods (AtomInterface::getNameSpace, AtomInterface::getName, AtomInterface::getLoopTime) in /Users/firzen/Sites/htdocs/workerman-api-monitor/Applications/ApiMonitor/Atom/clock.php on line 2"
+2019-11-19 13:52:18 pid:17604 worker[ApiMonitor:17612] exit with status 65280
+2019-11-19 13:52:18 pid:17613 Worker process terminated with ERROR: E_ERROR "Class Clock contains 3 abstract methods and must therefore be declared abstract or implement the remaining methods (AtomInterface::getNameSpace, AtomInterface::getName, AtomInterface::getLoopTime) in /Users/firzen/Sites/htdocs/workerman-api-monitor/Applications/ApiMonitor/Atom/clock.php on line 2"
+2019-11-19 13:52:18 pid:17604 worker[ApiMonitor:17613] exit with status 65280
+2019-11-19 13:52:18 pid:17615 Worker process terminated with ERROR: E_ERROR "Class Clock contains 3 abstract methods and must therefore be declared abstract or implement the remaining methods (AtomInterface::getNameSpace, AtomInterface::getName, AtomInterface::getLoopTime) in /Users/firzen/Sites/htdocs/workerman-api-monitor/Applications/ApiMonitor/Atom/clock.php on line 2"
+2019-11-19 13:52:18 pid:17604 worker[ApiMonitor:17615] exit with status 65280
+2019-11-19 13:52:18 pid:17618 Worker process terminated with ERROR: E_ERROR "Class Clock contains 3 abstract methods and must therefore be declared abstract or implement the remaining methods (AtomInterface::getNameSpace, AtomInterface::getName, AtomInterface::getLoopTime) in /Users/firzen/Sites/htdocs/workerman-api-monitor/Applications/ApiMonitor/Atom/clock.php on line 2"
+2019-11-19 13:52:18 pid:17604 worker[ApiMonitor:17618] exit with status 65280
+2019-11-19 13:52:18 pid:17619 Worker process terminated with ERROR: E_ERROR "Class Clock contains 3 abstract methods and must therefore be declared abstract or implement the remaining methods (AtomInterface::getNameSpace, AtomInterface::getName, AtomInterface::getLoopTime) in /Users/firzen/Sites/htdocs/workerman-api-monitor/Applications/ApiMonitor/Atom/clock.php on line 2"
+2019-11-19 13:52:18 pid:17604 worker[ApiMonitor:17619] exit with status 65280
+2019-11-19 13:52:18 pid:17620 Worker process terminated with ERROR: E_ERROR "Class Clock contains 3 abstract methods and must therefore be declared abstract or implement the remaining methods (AtomInterface::getNameSpace, AtomInterface::getName, AtomInterface::getLoopTime) in /Users/firzen/Sites/htdocs/workerman-api-monitor/Applications/ApiMonitor/Atom/clock.php on line 2"
+2019-11-19 13:52:18 pid:17604 worker[ApiMonitor:17620] exit with status 65280
+2019-11-19 13:52:18 pid:17621 Worker process terminated with ERROR: E_ERROR "Class Clock contains 3 abstract methods and must therefore be declared abstract or implement the remaining methods (AtomInterface::getNameSpace, AtomInterface::getName, AtomInterface::getLoopTime) in /Users/firzen/Sites/htdocs/workerman-api-monitor/Applications/ApiMonitor/Atom/clock.php on line 2"
+2019-11-19 13:52:18 pid:17604 worker[ApiMonitor:17621] exit with status 65280
+2019-11-19 13:52:18 pid:17622 Worker process terminated with ERROR: E_ERROR "Class Clock contains 3 abstract methods and must therefore be declared abstract or implement the remaining methods (AtomInterface::getNameSpace, AtomInterface::getName, AtomInterface::getLoopTime) in /Users/firzen/Sites/htdocs/workerman-api-monitor/Applications/ApiMonitor/Atom/clock.php on line 2"
+2019-11-19 13:52:18 pid:17604 worker[ApiMonitor:17622] exit with status 65280
+2019-11-19 13:52:18 pid:17623 Worker process terminated with ERROR: E_ERROR "Class Clock contains 3 abstract methods and must therefore be declared abstract or implement the remaining methods (AtomInterface::getNameSpace, AtomInterface::getName, AtomInterface::getLoopTime) in /Users/firzen/Sites/htdocs/workerman-api-monitor/Applications/ApiMonitor/Atom/clock.php on line 2"
+2019-11-19 13:52:18 pid:17604 worker[ApiMonitor:17623] exit with status 65280
+2019-11-19 13:52:18 pid:17624 Worker process terminated with ERROR: E_ERROR "Class Clock contains 3 abstract methods and must therefore be declared abstract or implement the remaining methods (AtomInterface::getNameSpace, AtomInterface::getName, AtomInterface::getLoopTime) in /Users/firzen/Sites/htdocs/workerman-api-monitor/Applications/ApiMonitor/Atom/clock.php on line 2"
+2019-11-19 13:52:18 pid:17604 worker[ApiMonitor:17624] exit with status 65280
+2019-11-19 13:52:18 pid:17625 Worker process terminated with ERROR: E_ERROR "Class Clock contains 3 abstract methods and must therefore be declared abstract or implement the remaining methods (AtomInterface::getNameSpace, AtomInterface::getName, AtomInterface::getLoopTime) in /Users/firzen/Sites/htdocs/workerman-api-monitor/Applications/ApiMonitor/Atom/clock.php on line 2"
+2019-11-19 13:52:18 pid:17604 worker[ApiMonitor:17625] exit with status 65280
+2019-11-19 13:52:18 pid:17626 Worker process terminated with ERROR: E_ERROR "Class Clock contains 3 abstract methods and must therefore be declared abstract or implement the remaining methods (AtomInterface::getNameSpace, AtomInterface::getName, AtomInterface::getLoopTime) in /Users/firzen/Sites/htdocs/workerman-api-monitor/Applications/ApiMonitor/Atom/clock.php on line 2"
+2019-11-19 13:52:18 pid:17604 worker[ApiMonitor:17626] exit with status 65280
+2019-11-19 13:52:18 pid:17627 Worker process terminated with ERROR: E_ERROR "Class Clock contains 3 abstract methods and must therefore be declared abstract or implement the remaining methods (AtomInterface::getNameSpace, AtomInterface::getName, AtomInterface::getLoopTime) in /Users/firzen/Sites/htdocs/workerman-api-monitor/Applications/ApiMonitor/Atom/clock.php on line 2"
+2019-11-19 13:52:18 pid:17604 worker[ApiMonitor:17627] exit with status 65280
+2019-11-19 13:52:18 pid:17628 Worker process terminated with ERROR: E_ERROR "Class Clock contains 3 abstract methods and must therefore be declared abstract or implement the remaining methods (AtomInterface::getNameSpace, AtomInterface::getName, AtomInterface::getLoopTime) in /Users/firzen/Sites/htdocs/workerman-api-monitor/Applications/ApiMonitor/Atom/clock.php on line 2"
+2019-11-19 13:52:18 pid:17604 worker[ApiMonitor:17628] exit with status 65280
+2019-11-19 13:52:18 pid:17629 Worker process terminated with ERROR: E_ERROR "Class Clock contains 3 abstract methods and must therefore be declared abstract or implement the remaining methods (AtomInterface::getNameSpace, AtomInterface::getName, AtomInterface::getLoopTime) in /Users/firzen/Sites/htdocs/workerman-api-monitor/Applications/ApiMonitor/Atom/clock.php on line 2"
+2019-11-19 13:52:18 pid:17604 worker[ApiMonitor:17629] exit with status 65280
+2019-11-19 13:52:18 pid:17630 Worker process terminated with ERROR: E_ERROR "Class Clock contains 3 abstract methods and must therefore be declared abstract or implement the remaining methods (AtomInterface::getNameSpace, AtomInterface::getName, AtomInterface::getLoopTime) in /Users/firzen/Sites/htdocs/workerman-api-monitor/Applications/ApiMonitor/Atom/clock.php on line 2"
+2019-11-19 13:52:18 pid:17604 worker[ApiMonitor:17630] exit with status 65280
+2019-11-19 13:52:18 pid:17631 Worker process terminated with ERROR: E_ERROR "Class Clock contains 3 abstract methods and must therefore be declared abstract or implement the remaining methods (AtomInterface::getNameSpace, AtomInterface::getName, AtomInterface::getLoopTime) in /Users/firzen/Sites/htdocs/workerman-api-monitor/Applications/ApiMonitor/Atom/clock.php on line 2"
+2019-11-19 13:52:18 pid:17604 worker[ApiMonitor:17631] exit with status 65280
+2019-11-19 13:52:18 pid:17632 Worker process terminated with ERROR: E_ERROR "Class Clock contains 3 abstract methods and must therefore be declared abstract or implement the remaining methods (AtomInterface::getNameSpace, AtomInterface::getName, AtomInterface::getLoopTime) in /Users/firzen/Sites/htdocs/workerman-api-monitor/Applications/ApiMonitor/Atom/clock.php on line 2"
+2019-11-19 13:52:18 pid:17604 worker[ApiMonitor:17632] exit with status 65280
+2019-11-19 13:52:18 pid:17633 Worker process terminated with ERROR: E_ERROR "Class Clock contains 3 abstract methods and must therefore be declared abstract or implement the remaining methods (AtomInterface::getNameSpace, AtomInterface::getName, AtomInterface::getLoopTime) in /Users/firzen/Sites/htdocs/workerman-api-monitor/Applications/ApiMonitor/Atom/clock.php on line 2"
+2019-11-19 13:52:18 pid:17604 worker[ApiMonitor:17633] exit with status 65280
+2019-11-19 13:52:18 pid:17634 Worker process terminated with ERROR: E_ERROR "Class Clock contains 3 abstract methods and must therefore be declared abstract or implement the remaining methods (AtomInterface::getNameSpace, AtomInterface::getName, AtomInterface::getLoopTime) in /Users/firzen/Sites/htdocs/workerman-api-monitor/Applications/ApiMonitor/Atom/clock.php on line 2"
+2019-11-19 13:52:18 pid:17604 worker[ApiMonitor:17634] exit with status 65280
+2019-11-19 13:52:18 pid:17635 Worker process terminated with ERROR: E_ERROR "Class Clock contains 3 abstract methods and must therefore be declared abstract or implement the remaining methods (AtomInterface::getNameSpace, AtomInterface::getName, AtomInterface::getLoopTime) in /Users/firzen/Sites/htdocs/workerman-api-monitor/Applications/ApiMonitor/Atom/clock.php on line 2"
+2019-11-19 13:52:18 pid:17604 worker[ApiMonitor:17635] exit with status 65280
+2019-11-19 13:52:18 pid:17636 Worker process terminated with ERROR: E_ERROR "Class Clock contains 3 abstract methods and must therefore be declared abstract or implement the remaining methods (AtomInterface::getNameSpace, AtomInterface::getName, AtomInterface::getLoopTime) in /Users/firzen/Sites/htdocs/workerman-api-monitor/Applications/ApiMonitor/Atom/clock.php on line 2"
+2019-11-19 13:52:18 pid:17604 worker[ApiMonitor:17636] exit with status 65280
+2019-11-19 13:52:19 pid:17637 Worker process terminated with ERROR: E_ERROR "Class Clock contains 3 abstract methods and must therefore be declared abstract or implement the remaining methods (AtomInterface::getNameSpace, AtomInterface::getName, AtomInterface::getLoopTime) in /Users/firzen/Sites/htdocs/workerman-api-monitor/Applications/ApiMonitor/Atom/clock.php on line 2"
+2019-11-19 13:52:19 pid:17604 worker[ApiMonitor:17637] exit with status 65280
+2019-11-19 13:52:19 pid:17638 Worker process terminated with ERROR: E_ERROR "Class Clock contains 3 abstract methods and must therefore be declared abstract or implement the remaining methods (AtomInterface::getNameSpace, AtomInterface::getName, AtomInterface::getLoopTime) in /Users/firzen/Sites/htdocs/workerman-api-monitor/Applications/ApiMonitor/Atom/clock.php on line 2"
+2019-11-19 13:52:19 pid:17604 worker[ApiMonitor:17638] exit with status 65280
+2019-11-19 13:52:19 pid:17639 Worker process terminated with ERROR: E_ERROR "Class Clock contains 3 abstract methods and must therefore be declared abstract or implement the remaining methods (AtomInterface::getNameSpace, AtomInterface::getName, AtomInterface::getLoopTime) in /Users/firzen/Sites/htdocs/workerman-api-monitor/Applications/ApiMonitor/Atom/clock.php on line 2"
+2019-11-19 13:52:19 pid:17604 worker[ApiMonitor:17639] exit with status 65280
+2019-11-19 13:52:19 pid:17640 Worker process terminated with ERROR: E_ERROR "Class Clock contains 3 abstract methods and must therefore be declared abstract or implement the remaining methods (AtomInterface::getNameSpace, AtomInterface::getName, AtomInterface::getLoopTime) in /Users/firzen/Sites/htdocs/workerman-api-monitor/Applications/ApiMonitor/Atom/clock.php on line 2"
+2019-11-19 13:52:19 pid:17604 worker[ApiMonitor:17640] exit with status 65280
+2019-11-19 13:52:19 pid:17641 Worker process terminated with ERROR: E_ERROR "Class Clock contains 3 abstract methods and must therefore be declared abstract or implement the remaining methods (AtomInterface::getNameSpace, AtomInterface::getName, AtomInterface::getLoopTime) in /Users/firzen/Sites/htdocs/workerman-api-monitor/Applications/ApiMonitor/Atom/clock.php on line 2"
+2019-11-19 13:52:19 pid:17604 worker[ApiMonitor:17641] exit with status 65280
+2019-11-19 13:52:19 pid:17642 Worker process terminated with ERROR: E_ERROR "Class Clock contains 3 abstract methods and must therefore be declared abstract or implement the remaining methods (AtomInterface::getNameSpace, AtomInterface::getName, AtomInterface::getLoopTime) in /Users/firzen/Sites/htdocs/workerman-api-monitor/Applications/ApiMonitor/Atom/clock.php on line 2"
+2019-11-19 13:52:19 pid:17604 Workerman[start.php] stopping ...
+2019-11-19 13:52:19 pid:17604 worker[ApiMonitor:17642] exit with status 65280
+2019-11-19 13:52:19 pid:17604 Workerman[start.php] has been stopped
+2019-11-19 13:53:35 pid:17714 Workerman[start.php] start in DEBUG mode
+2019-11-19 13:53:39 pid:17714 Workerman[start.php] stopping ...
+2019-11-19 13:53:39 pid:17714 Workerman[start.php] has been stopped
+2019-11-19 13:54:18 pid:17752 Workerman[start.php] start in DEBUG mode
+2019-11-19 13:54:18 pid:17753 Error: Class '/Users/firzen/Sites/htdocs/workerman-api-monitor/Applications/ApiMonitor/Atom/clock.php' not found in /Users/firzen/Sites/htdocs/workerman-api-monitor/Applications/ApiMonitor/start.php:26
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Worker))
+#1 /Users/firzen/Sites/htdocs/workerman-api-monitor/vendor/workerman/workerman/Worker.php(2115): call_user_func(Object(Closure), Object(Workerman\Worker))
+#2 /Users/firzen/Sites/htdocs/workerman-api-monitor/vendor/workerman/workerman/Worker.php(1323): Workerman\Worker->run()
+#3 /Users/firzen/Sites/htdocs/workerman-api-monitor/vendor/workerman/workerman/Worker.php(1156): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#4 /Users/firzen/Sites/htdocs/workerman-api-monitor/vendor/workerman/workerman/Worker.php(1130): Workerman\Worker::forkWorkersForLinux()
+#5 /Users/firzen/Sites/htdocs/workerman-api-monitor/vendor/workerman/workerman/Worker.php(466): Workerman\Worker::forkWorkers()
+#6 /Users/firzen/Sites/htdocs/workerman-api-monitor/start.php(32): Workerman\Worker::runAll()
+#7 {main}
+2019-11-19 13:54:19 pid:17753 Worker process terminated
+2019-11-19 13:54:19 pid:17752 worker[ApiMonitor:17753] exit with status 64000
+2019-11-19 13:54:19 pid:17758 Error: Class '/Users/firzen/Sites/htdocs/workerman-api-monitor/Applications/ApiMonitor/Atom/clock.php' not found in /Users/firzen/Sites/htdocs/workerman-api-monitor/Applications/ApiMonitor/start.php:26
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Worker))
+#1 /Users/firzen/Sites/htdocs/workerman-api-monitor/vendor/workerman/workerman/Worker.php(2115): call_user_func(Object(Closure), Object(Workerman\Worker))
+#2 /Users/firzen/Sites/htdocs/workerman-api-monitor/vendor/workerman/workerman/Worker.php(1323): Workerman\Worker->run()
+#3 /Users/firzen/Sites/htdocs/workerman-api-monitor/vendor/workerman/workerman/Worker.php(1156): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#4 /Users/firzen/Sites/htdocs/workerman-api-monitor/vendor/workerman/workerman/Worker.php(1130): Workerman\Worker::forkWorkersForLinux()
+#5 /Users/firzen/Sites/htdocs/workerman-api-monitor/vendor/workerman/workerman/Worker.php(1455): Workerman\Worker::forkWorkers()
+#6 /Users/firzen/Sites/htdocs/workerman-api-monitor/vendor/workerman/workerman/Worker.php(1404): Workerman\Worker::monitorWorkersForLinux()
+#7 /Users/firzen/Sites/htdocs/workerman-api-monitor/vendor/workerman/workerman/Worker.php(468): Workerman\Worker::monitorWorkers()
+#8 /Users/firzen/Sites/htdocs/workerman-api-monitor/start.php(32): Workerman\Worker::runAll()
+#9 {main}
+2019-11-19 13:54:19 pid:17758 Worker process terminated
+2019-11-19 13:54:19 pid:17752 Workerman[start.php] stopping ...
+2019-11-19 13:54:19 pid:17752 worker[ApiMonitor:17758] exit with status 64000
+2019-11-19 13:54:19 pid:17752 Workerman[start.php] has been stopped
+2019-11-19 14:00:38 pid:18109 Workerman[start.php] start in DEBUG mode
+2019-11-19 14:00:40 pid:18109 Workerman[start.php] stopping ...
+2019-11-19 14:00:40 pid:18109 Workerman[start.php] has been stopped
+2019-11-19 14:01:20 pid:18147 Workerman[start.php] start in DEBUG mode
+2019-11-19 14:01:27 pid:18147 Workerman[start.php] stopping ...
+2019-11-19 14:01:27 pid:18147 Workerman[start.php] has been stopped
+2019-11-19 14:01:27 pid:18156 Workerman[start.php] start in DEBUG mode
+2019-11-19 14:02:53 pid:18156 Workerman[start.php] stopping ...
+2019-11-19 14:02:53 pid:18156 Workerman[start.php] has been stopped
+2019-11-19 14:02:54 pid:18236 Workerman[start.php] start in DEBUG mode
+2019-11-19 14:02:57 pid:18236 Workerman[start.php] stopping ...
+2019-11-19 14:02:57 pid:18236 Workerman[start.php] has been stopped
+2019-11-19 14:03:12 pid:18265 Workerman[start.php] start in DEBUG mode
+2019-11-19 14:03:14 pid:18265 Workerman[start.php] stopping ...
+2019-11-19 14:03:14 pid:18265 Workerman[start.php] has been stopped
+2019-11-19 14:03:25 pid:18281 Workerman[start.php] start in DEBUG mode
+2019-11-19 14:03:27 pid:18281 Workerman[start.php] stopping ...
+2019-11-19 14:03:27 pid:18281 Workerman[start.php] has been stopped
+2019-11-19 14:03:41 pid:18297 Workerman[start.php] start in DEBUG mode
+2019-11-19 14:03:42 pid:18298 Worker process terminated with ERROR: E_ERROR "Uncaught ArgumentCountError: Too few arguments to function {closure}(), 0 passed and exactly 1 expected in /Users/firzen/Sites/htdocs/workerman-api-monitor/Applications/ApiMonitor/start.php:33
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /Users/firzen/Sites/htdocs/workerman-api-monitor/vendor/workerman/workerman/Events/Select.php(233): call_user_func_array(Object(Closure), Array)
+#2 /Users/firzen/Sites/htdocs/workerman-api-monitor/vendor/workerman/workerman/Events/Select.php(274): Workerman\Events\Select->tick()
+#3 /Users/firzen/Sites/htdocs/workerman-api-monitor/vendor/workerman/workerman/Worker.php(2130): Workerman\Events\Select->loop()
+#4 /Users/firzen/Sites/htdocs/workerman-api-monitor/vendor/workerman/workerman/Worker.php(1323): Workerman\Worker->run()
+#5 /Users/firzen/Sites/htdocs/workerman-api-monitor/vendor/workerman/workerman/Worker.php(1156): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#6 /Users/firzen/Sites/htdocs/workerman-api-monitor/vendor/workerman/workerman/Worker. in /Users/firzen/Sites/htdocs/workerman-api-monitor/Applications/ApiMonitor/start.php on line 33"
+2019-11-19 14:03:42 pid:18297 worker[ApiMonitor:18298] exit with status 65280
+2019-11-19 14:03:43 pid:18303 Worker process terminated with ERROR: E_ERROR "Uncaught ArgumentCountError: Too few arguments to function {closure}(), 0 passed and exactly 1 expected in /Users/firzen/Sites/htdocs/workerman-api-monitor/Applications/ApiMonitor/start.php:33
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /Users/firzen/Sites/htdocs/workerman-api-monitor/vendor/workerman/workerman/Events/Select.php(233): call_user_func_array(Object(Closure), Array)
+#2 /Users/firzen/Sites/htdocs/workerman-api-monitor/vendor/workerman/workerman/Events/Select.php(274): Workerman\Events\Select->tick()
+#3 /Users/firzen/Sites/htdocs/workerman-api-monitor/vendor/workerman/workerman/Worker.php(2130): Workerman\Events\Select->loop()
+#4 /Users/firzen/Sites/htdocs/workerman-api-monitor/vendor/workerman/workerman/Worker.php(1323): Workerman\Worker->run()
+#5 /Users/firzen/Sites/htdocs/workerman-api-monitor/vendor/workerman/workerman/Worker.php(1156): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#6 /Users/firzen/Sites/htdocs/workerman-api-monitor/vendor/workerman/workerman/Worker. in /Users/firzen/Sites/htdocs/workerman-api-monitor/Applications/ApiMonitor/start.php on line 33"
+2019-11-19 14:03:43 pid:18297 worker[ApiMonitor:18303] exit with status 65280
+2019-11-19 14:03:43 pid:18297 Workerman[start.php] stopping ...
+2019-11-19 14:03:43 pid:18297 Workerman[start.php] has been stopped
+2019-11-19 14:04:40 pid:18439 Workerman[start.php] start in DEBUG mode
+2019-11-19 14:04:45 pid:18439 Workerman[start.php] stopping ...
+2019-11-19 14:04:45 pid:18439 Workerman[start.php] has been stopped
+2019-11-19 14:08:28 pid:18780 Workerman[start.php] start in DEBUG mode
+2019-11-19 14:08:35 pid:18780 Workerman[start.php] stopping ...
+2019-11-19 14:08:35 pid:18780 Workerman[start.php] has been stopped
+2019-11-19 14:08:40 pid:18807 Workerman[start.php] start in DEBUG mode
+2019-11-19 14:08:43 pid:18807 Workerman[start.php] stopping ...
+2019-11-19 14:08:43 pid:18807 Workerman[start.php] has been stopped
+2019-11-19 14:08:56 pid:18832 Workerman[start.php] start in DEBUG mode
+2019-11-19 14:09:13 pid:18832 Workerman[start.php] stopping ...
+2019-11-19 14:09:13 pid:18832 Workerman[start.php] has been stopped
+2019-11-19 14:14:13 pid:19246 Workerman[start.php] start in DEBUG mode
+2019-11-19 14:14:14 pid:19247 Worker process terminated with ERROR: E_ERROR "Uncaught Error: Class 'StatisticClient' not found in /Users/firzen/Sites/htdocs/workerman-api-monitor/Applications/ApiMonitor/start.php:41
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /Users/firzen/Sites/htdocs/workerman-api-monitor/vendor/workerman/workerman/Events/Select.php(233): call_user_func_array(Object(Closure), Array)
+#2 /Users/firzen/Sites/htdocs/workerman-api-monitor/vendor/workerman/workerman/Events/Select.php(274): Workerman\Events\Select->tick()
+#3 /Users/firzen/Sites/htdocs/workerman-api-monitor/vendor/workerman/workerman/Worker.php(2130): Workerman\Events\Select->loop()
+#4 /Users/firzen/Sites/htdocs/workerman-api-monitor/vendor/workerman/workerman/Worker.php(1323): Workerman\Worker->run()
+#5 /Users/firzen/Sites/htdocs/workerman-api-monitor/vendor/workerman/workerman/Worker.php(1156): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#6 /Users/firzen/Sites/htdocs/workerman-api-monitor/vendor/workerman/workerman/Worker.php(1130): Workerman\Worker::forkWorkersForLinux()
+#7  in /Users/firzen/Sites/htdocs/workerman-api-monitor/Applications/ApiMonitor/start.php on line 41"
+2019-11-19 14:14:14 pid:19246 worker[ApiMonitor:19247] exit with status 65280
+2019-11-19 14:14:15 pid:19252 Worker process terminated with ERROR: E_ERROR "Uncaught Error: Class 'StatisticClient' not found in /Users/firzen/Sites/htdocs/workerman-api-monitor/Applications/ApiMonitor/start.php:41
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /Users/firzen/Sites/htdocs/workerman-api-monitor/vendor/workerman/workerman/Events/Select.php(233): call_user_func_array(Object(Closure), Array)
+#2 /Users/firzen/Sites/htdocs/workerman-api-monitor/vendor/workerman/workerman/Events/Select.php(274): Workerman\Events\Select->tick()
+#3 /Users/firzen/Sites/htdocs/workerman-api-monitor/vendor/workerman/workerman/Worker.php(2130): Workerman\Events\Select->loop()
+#4 /Users/firzen/Sites/htdocs/workerman-api-monitor/vendor/workerman/workerman/Worker.php(1323): Workerman\Worker->run()
+#5 /Users/firzen/Sites/htdocs/workerman-api-monitor/vendor/workerman/workerman/Worker.php(1156): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#6 /Users/firzen/Sites/htdocs/workerman-api-monitor/vendor/workerman/workerman/Worker.php(1130): Workerman\Worker::forkWorkersForLinux()
+#7  in /Users/firzen/Sites/htdocs/workerman-api-monitor/Applications/ApiMonitor/start.php on line 41"
+2019-11-19 14:14:15 pid:19246 worker[ApiMonitor:19252] exit with status 65280
+2019-11-19 14:14:15 pid:19246 Workerman[start.php] stopping ...
+2019-11-19 14:14:15 pid:19246 Workerman[start.php] has been stopped
+2019-11-19 14:15:03 pid:19295 Workerman[start.php] start in DEBUG mode
+2019-11-19 14:15:56 pid:19295 Workerman[start.php] stopping ...
+2019-11-19 14:15:56 pid:19295 Workerman[start.php] has been stopped
+2019-11-19 14:15:57 pid:19357 Workerman[start.php] start in DEBUG mode
+2019-11-19 14:20:55 pid:19357 Workerman[start.php] stopping ...
+2019-11-19 14:20:56 pid:19357 Workerman[start.php] has been stopped
+2019-11-19 14:20:56 pid:19664 Workerman[start.php] start in DEBUG mode
+2019-11-19 14:21:35 pid:19664 Workerman[start.php] stopping ...
+2019-11-19 14:21:36 pid:19664 Workerman[start.php] has been stopped
+2019-11-19 14:21:36 pid:19707 Workerman[start.php] start in DEBUG mode

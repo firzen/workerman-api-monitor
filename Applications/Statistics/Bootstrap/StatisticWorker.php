@@ -26,7 +26,7 @@ class StatisticWorker extends Worker
      *  最大日志buffer，大于这个值就写磁盘
      * @var integer
      */
-    const MAX_LOG_BUFFER_SIZE = 1024000;
+    const MAX_LOG_BUFFER_SZIE = 1024000;
     
     /**
      * 多长时间写一次数据到磁盘
@@ -82,7 +82,6 @@ class StatisticWorker extends Worker
         parent::__construct($socket_name);
         $this->onWorkerStart = array($this, 'onStart');
         $this->onMessage = array($this, 'onMessage');
-        $this->onWorkerStop = array($this, 'onStop');
     }
     
     /**
@@ -110,7 +109,7 @@ class StatisticWorker extends Worker
         if(!$success)
         {
             $this->logBuffer .= date('Y-m-d H:i:s',$time)."\t$ip\t$module::$interface\tcode:$code\tmsg:$msg\n";
-            if(strlen($this->logBuffer) >= self::MAX_LOG_BUFFER_SIZE)
+            if(strlen($this->logBuffer) >= self::MAX_LOG_BUFFER_SZIE)
             {
                 $this->writeLogToDisk();
             }
