@@ -10,9 +10,13 @@ API监控框架，监控内容不设限制，PHP能实现的都能监控。本�
 
 安装
 =========
-1、下载 或者 ```git clone https://github.com/walkor/workerman-statistics```
+1、下载 或者 ```git clone https://github.com/walkor/workerman-api-monitor```
 
 2、命令行运行 ```composer install```
+
+监控子应用例子
+=========
+
 
 启动停止
 =========
