@@ -1,11 +1,10 @@
 介绍
 ========
-API监控框架，监控内容不设限制，PHP能实现的都能监控。本应用通过按照定义的规则自动执行子应用，通过对子应用返回的结果和执行耗时，推送至workerman-statistics实现记录和统计。
+API监控框架，监控内容不设限制，PHP能实现的都能监控。本应用通过按照定义的规则自动执行子应用(Atom)，通过对子应用返回的结果和执行耗时，推送至workerman-statistics实现记录和统计。
 基于workerman-statistics实现API监控结果的成功、失败、耗时等图表展示。
 
 所需环境
 ========
-
 需要PHP版本不低于5.3，只需要安装PHP的Cli即可，无需安装PHP-FPM、nginx、apache
 
 安装
@@ -16,7 +15,35 @@ API监控框架，监控内容不设限制，PHP能实现的都能监控。本�
 
 监控子应用例子
 =========
+```php
+class Clock implements AtomInterface{
+	public function execute()
+	{
+		$str=file_get_contents('http://worldclockapi.com/api/json/est/now');
+		if(json_decode($str)){
+			return true;
+		}else{
+			return false;
+		}
+	}
+	public function getName()
+	{
+		return 'World Clock API';
+	}
 
+	public function getNameSpace()
+	{
+		return 'Sameple';
+	}
+
+	public function getLoopTime()
+	{
+		return 5;
+	}
+}
+
+return 'Clock';
+```
 
 启动停止
 =========
