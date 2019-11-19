@@ -65,13 +65,6 @@ return 'Clock';
 停止  
 `php start.php stop`
 
-Windows系统上运行
-======
-1、Windows平台需要将Workerman目录替换成[Windows版本的Workerman](https://github.com/walkor/workerman-for-win)
-
-2、运行start_for_win.bat
-
-[Windows版本Workerman相关参见这里](http://www.workerman.net/windows)
 
 权限验证
 =======
