@@ -122,7 +122,7 @@ function statistic($module, $interface, $date, $start_time, $offset)
 	}
 	if (empty($interface)){
 		$ifSheet=array();
-		$log_data=$success_series_data=$fail_series_data=array();
+		$log_data=$success_series_data=$fail_series_data=$time_data=$speed_sheet=array();
 		foreach (\Statistics\Lib\Cache::$modulesDataCache as $mod => $interfaces) {
 			if ($mod== $module){
 				foreach ($interfaces as $if) {
@@ -131,9 +131,11 @@ function statistic($module, $interface, $date, $start_time, $offset)
 					if (is_array(\Statistics\Lib\Cache::$statisticDataCache['statistic'])) {
 						foreach (\Statistics\Lib\Cache::$statisticDataCache['statistic'] as $ip => $st_str) {
 							$last_date=false;
-							foreach (explode("\n",$st_str) as $row){
-								@list($a,$b,$c,$d,$f)=explode("\t",$row);
+							$_tmp_arr=explode("\n",$st_str);
+							foreach ($_tmp_arr as $row){
+								@list($a,$b,$c,$d,$f,$g)=explode("\t",$row);
 								$ifSheet[$if]+=$c+$f;
+								@$time_data[$if]+=($c?$d/$c:0)+($g?$g/$f:0);
 								if ($c){
 									@$success_series_data[$b]+=$c;
 									if (empty($fail_series_data[$b])){
@@ -146,7 +148,9 @@ function statistic($module, $interface, $date, $start_time, $offset)
 										$success_series_data[$b]=0;
 									}
 								}
+								@$speed_sheet[$if][$b]+=($c?$d/$c:0)+($g?$g/$f:0);
 							}
+							$time_data[$if]=round($time_data[$if]/count($_tmp_arr),2);
 							if ($last_date){
 								@$log_data[$if]= getStasticLog($module,$if,$last_date-300,strtotime('tomorrow'),1000);
 							}

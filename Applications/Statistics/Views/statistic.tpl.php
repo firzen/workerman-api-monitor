@@ -52,7 +52,7 @@
 			<table class="table table-hover table-condensed table-bordered">
 				<thead>
 					<tr>
-						<th></th><th>接口</th><th>次数</th><th style="max-width: 500px">信息</th>
+						<th></th><th>接口</th><th>次数</th><th>时间</th><th style="max-width: 500px">信息</th>
 					</tr>
 				</thead>
 				<tbody>
@@ -65,6 +65,8 @@
 							<?php echo '<a href="/?fn=statistic&module=' . $module . '&interface=' . $if . '">' . $if . '</a>'?>	
 						</td>
 						<td><?php echo $count?></td>
+						<td><?php echo $time_data[$if]?></td>
+						
 						<td>
 							<?php echo str_replace("\n",'<br>',@$log_data_sheet[$if])?>
 						</td>
@@ -84,11 +86,77 @@
 		<div class="row clearfix">
 			<div class="col-md-12 column height-400" id="req-container" >
 			</div>
+			<div class="col-md-12 column height-400" id="speed-container" >
+			</div>
+			
 			<script>
 			Highcharts.setOptions({
 				global: {
 					useUTC: false
 				}
+			});
+			$('#speed-container').highcharts({
+				chart: {
+					type: 'spline'
+				},
+				title: {
+					text: '<?php echo "$date $interface_name";?>  响应时间曲线'
+				},
+				subtitle: {
+					text: ''
+				},
+				xAxis: {
+					type: 'datetime',
+					dateTimeLabelFormats: { 
+						hour: '%H:%M'
+					}
+				},
+				yAxis: {
+					title: {
+						text: '响应时间(s)'
+					},
+					min: 0
+				},
+				tooltip: {
+					crosshairs: true,
+			        shared: true
+				},
+				credits: {
+					enabled: false,
+				},
+				series: [
+					<?php foreach ($speed_sheet as $kname =>$kdata):?>
+					{
+						name: '<?php echo $kname?>',
+						data:[
+							<?php $i=0;foreach ($kdata as $ktime => $kspeed):$i++;?>
+							<?php if ($ktime) :?>
+							[<?php echo $ktime*1000?>,<?php echo $kspeed?>]
+							<?php endif;?>
+							<?php if ($i!=count($kdata)) {
+								echo ',';
+							}?>
+							<?php endforeach?>
+						],
+						lineWidth: 2,
+						marker:{
+							radius: 1
+						},
+						
+						pointInterval: 300*1000
+					},
+					<?php endforeach;?>
+				{
+					name: 'blank',
+					data: [
+					],
+					lineWidth: 2,
+					marker:{
+						radius: 1
+					},
+					pointInterval: 300*1000
+				}
+				]
 			});
 				$('#req-container').highcharts({
 					chart: {
@@ -113,12 +181,8 @@
 						min: 0
 					},
 					tooltip: {
-						formatter: function() {
-							return '<p style="color:'+this.series.color+';font-weight:bold;">'
-							+ this.series.name + 
-							'</p><br /><p style="color:'+this.series.color+';font-weight:bold;">时间：' + Highcharts.dateFormat('%m月%d日 %H:%M', this.x) + 
-							'</p><br /><p style="color:'+this.series.color+';font-weight:bold;">数量：'+ this.y + '</p>';
-						}
+						crosshairs: true,
+				        shared: true
 					},
 					credits: {
 						enabled: false,
