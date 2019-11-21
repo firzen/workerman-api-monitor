@@ -21,7 +21,7 @@ class Clock implements AtomInterface{
 
 	public function getLoopTime()
 	{
-		return 5;
+		return 60;
 	}
 }
 
