@@ -68,7 +68,7 @@
 						<td><?php echo $time_data[$if]?></td>
 						
 						<td>
-							<?php echo str_replace("\n",'<br>',@$log_data_sheet[$if])?>
+							<?php echo str_replace("\n",'<br>',@htmlentities($log_data_sheet[$if]))?>
 						</td>
 					</tr>
 					<?php $total+=$count; endforeach;?>
@@ -76,6 +76,7 @@
 						<td>9999</td>
 						<td>合计</td>
 						<td><?php echo $total?></td>
+						<td></td>
 						<td></td>
 					</tr>
 				</tbody>

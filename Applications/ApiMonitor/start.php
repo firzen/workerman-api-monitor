@@ -8,6 +8,8 @@ use Workerman\Lib\Timer;
 include dirname(__DIR__).'/Statistics/Clients/StatisticClient.php';
 
 // WebServer
+Worker::$stdoutFile='./log.log';
+
 $mon = new Worker("http://0.0.0.0:1010");
 $mon->name = 'ApiMonitor';
 $files=array();
@@ -42,10 +44,10 @@ $mon->onWorkerStart=function() use ($mon,$files){
 			$ret=false;
 			try {
 				$ret=$atom->execute();
-			} catch (Exception $e) {
-				$ret=false;
+			} catch (Exception $ex) {
+				$ret=$ex->getMessage();
 			}
-			StatisticClient::report($atom->getNameSpace(),$atom->getName(),$ret,0,'');
+			StatisticClient::report($atom->getNameSpace(),$atom->getName(),$ret===true?true:false,0,$ret!==true?substr($ret,0,1000):'');
 		}
 	});
 };
