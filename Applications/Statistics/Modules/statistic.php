@@ -141,6 +141,7 @@ function statistic($module, $interface, $date, $start_time, $offset)
 									if (empty($fail_series_data[$b])){
 										$fail_series_data[$b]=0;
 									}
+									@$speed_sheet[$if][$b]+=$d/$c;
 								}elseif ($f){
 									$last_date=$b;
 									@$fail_series_data[$b]+=$f;
@@ -148,7 +149,6 @@ function statistic($module, $interface, $date, $start_time, $offset)
 										$success_series_data[$b]=0;
 									}
 								}
-								@$speed_sheet[$if][$b]+=($c?$d/$c:0)+($g?$g/$f:0);
 							}
 							$time_data[$if]=round($time_data[$if]/count($_tmp_arr),2);
 							if ($last_date){
